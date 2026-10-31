@@ -111,7 +111,7 @@ def _table_kind(table: list[list[str | None]]) -> str | None:
         return "stock"
     if "债券代码" in joined or "债券名称" in joined:
         return "bond"
-    if "基金代码" in joined and "基金名称" in joined:
+    if "基金代码" in joined or "基金名称" in joined:
         return "fof"
     if "合计" in joined or "总计" in joined:
         return "total"
