@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+frontend/node_modules/
+*.log
+runtime/

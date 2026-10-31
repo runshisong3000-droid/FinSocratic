@@ -1,0 +1,15 @@
+{
+  "id": "hx-2025annual",
+  "code": "005218",
+  "title": "华夏聚惠2025年年度报告",
+  "date": "2025-12-31",
+  "kind": "年报",
+  "provider": "华夏基金官网",
+  "url": "https://www.chinaamc.com.cn/upload/resources/file/2026/03/31/6974c4ef82024e3694f3b447ba4891b2.pdf",
+  "status": "ready",
+  "bytes": 1872977,
+  "pages": 61,
+  "document_id": "DOC-8E08CD7D6731",
+  "sha256": "b98c4d20babde5ba50af6c763b90e2ad543d37323bd93a4ab6b6ecec0a36230e",
+  "retrieved_at": "2026-10-27T00:44:02.584903+00:00"
+}

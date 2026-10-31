@@ -1,0 +1,4 @@
+fund_id,name,manager,strategy,asset_class,region,inception,fee_pct,liquidity,description
+FOF-001,稳健多元FOF,远山资产,多策略组合,FOF,中国,2021-06-30,1.20,月度开放,以分散配置为目标的示例组合
+FOF-002,均衡配置FOF,澄明投资,全天候配置,FOF,中国,2020-12-31,1.00,月度开放,跨资产平衡配置的示例组合
+FOF-003,进取精选FOF,知行基金,量化与主观混合,FOF,中国,2022-03-31,1.50,季度开放,追求增长并承担较高波动的示例组合

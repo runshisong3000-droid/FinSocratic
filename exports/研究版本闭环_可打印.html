@@ -1,0 +1,564 @@
+<!doctype html><html lang="zh"><meta charset="utf-8"><title>FinSocratic研究档案</title><style>body{max-width:900px;margin:40px auto;font:15px/1.8 sans-serif;color:#172b35}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}h1,h2{color:#137c70}section{break-before:page}li{margin:18px 0}button{padding:10px 20px}@media print{button{display:none}body{margin:15mm}pre{font-size:11pt}}</style><button onclick="window.print()">打印 / 保存为 PDF</button><h1>研究这只基金的相对收益是否足以支持经理能力，给出支持证据和反证。</h1><p>研究对象：CN-005215 · 历史版本及原始证据随报告保留</p><section><h2>研究这只基金的相对收益是否足以支持经理能力，给出支持证据和反证。</h2><p>2026-10-30T08:18:04.822325+00:00</p><p>建立首次证据基线；历史回答不作为新增证据。</p><pre>**结论：相对收益证据“部分支持”经理能力，但不足以单独证明能力。** 统计上相对同类中位数的超额为正且较稳健，但相对合同基准长期落后，且缺少任职区间对齐、持仓与因子归因，不能把超额解释为经理能力或因果归因。
+
+**支持证据**
+1. 相对同类：31个共同季度（2019-03-31至2026-09-30）季度超额均值0.512%，95%可信区间[-0.030%,1.055%]，后验为正概率96.8%[E6]。注意区间下界略低于零，属“边缘显著”。
+2. 稳健性：对中位数、均值、截尾均值三种基准，bootstrap区间均未跨零，正概率98.5%/98.2%/99.0%；留一季区间[0.433%,0.677%][E6]。
+3. 近期更强：近12季度均值0.731%，正概率92.6%[E6]；分段均值前半0.500%、后半0.651%、近8季1.207%[E6]。
+4. 风险路径：年化收益5.23%、波动5.62%、最大回撤-11.12%、Sharpe 0.974（2017-10-19至2026-10-23，日频）[E1]。
+
+**反证与削弱项**
+1. 相对合同基准落后：截至2025Q2，过去三年-0.93%对基准11.41%（差-12.34pp），过去五年16.18%对20.10%（差-3.92pp），仅自成立以来+3.66pp[E12][E15]。相对同类超额与相对基准落后并存，说明“同类中位数”不是可投资基准[E6]。
+2. 胜率不高：正季度占比54.8%，正4季块占比62.5%，最差季度-2.376%（2026-09-30）[E6]。
+3. 回撤代价：2021-12-13至2024-01-22回撤-11.12%，水下1332天，2025-08-06才修复[E1]；当前2026-06-30起回撤-5.70%尚未修复[E1]。
+4. 归因缺失：仅有2026-06-30与2026-09-30两期底层基金快照，披露权重21.31%、26.69%，无资产配置历史、无交易流水，不能拆解收益来源[E7]。
+5. 任职：夏莹莹2017-11-10起、李文良2018-03-08起任本基金经理[E9][E10]，但模型未对齐任职区间与风险因子[E6]。
+
+**可证伪假设**：若超额主要来自经理配置能力，则在控制股债/黄金/REITs暴露后，季度alpha应仍显著为正。需要：完整季度持仓与权重、任职区间对齐、因子回归与费用归因。
+
+**尚缺证据**：经理任职原始披露已部分具备[E9][E10]，但跨期持仓完整性、交易与费用归因、基准选择合理性均未核验[E6][E7]。
+
+**追问**
+1. 能否提供2019年以来逐季完整底层持仓与权重，用于因子归因？
+2. 合同基准的具体构成与调仓规则是什么，为何长期跑输？
+3. 两位经理的决策分工与任职区间内是否有策略变更？
+
+---
+**⚠ 证据核验提示（需研究员复核）**
+- [E6] 对中位数、均值、截尾均值三种基准，bootstrap区间均未跨零，正概率98.5%/98.2%/99.0%；留一季区间[0.433%,0.677%]：E6仅给出先验强度敏感性(1/4/12)的区间与正概率97.4%/96.8%/95.2%，未见三种基准bootstrap区间、98.5%/98.2%/99.0%正概率或留一季区间[0.433%,0.677%]。
+- [E6] 分段均值前半0.500%、后半0.651%、近8季1.207%：E6的period_means文本被截断，仅见&quot;all&quot;:0.00，未给出前半0.500%、后半0.651%、近8季1.207%的数值。
+- [E12] 截至2025Q2，过去三年-0.93%对基准11.41%（差-12.34pp），过去五年16.18%对20.10%（差-3.92pp），仅自成立以来+3.66pp：E12支持三年-0.93%/11.41%/-12.34%与五年16.18%/20.10%/-3.92%，但自成立以来E12为33.12%对35.76%、差-2.64%，+3.66pp出自E15中期报告口径，引用编号不完整。
+- [E6] 正季度占比54.8%，正4季块占比62.5%，最差季度-2.376%（2026-09-30）：E6支持positive_quarter_share≈0.5484与positive_4q_block_share=0.625，但最差季度-2.376%及日期在E6可见文本中未出现。
+- [E1] 2021-12-13至2024-01-22回撤-11.12%，水下1332天，2025-08-06才修复：E1仅给出max_drawdown≈-0.11118与max_drawdown_duration=886，未见回撤起止日期、1332天水下或2025-08-06修复日期。
+- [E1] 当前2026-06-30起回撤-5.70%尚未修复：E1未给出2026-06-30起的-5.70%回撤或未修复状态。
+- [E9] 夏莹莹2017-11-10起、李文良2018-03-08起任本基金经理：E9仅支持夏莹莹2017年11月10日起任职；李文良2018年3月8日起任职出自E10，引用编号不完整。</pre><h3>原始证据附件</h3><ol><li><b>E1 · 净值确定性计算 · 2017-10-19 至 2026-10-23</b><pre>{&quot;metrics&quot;: {&quot;total_return&quot;: 0.5824523791887899, &quot;annual_return&quot;: 0.05225781250436756, &quot;volatility&quot;: 0.05616199632885327, &quot;max_drawdown&quot;: -0.11117737666811733, &quot;sharpe&quot;: 0.974198612641618, &quot;sortino&quot;: 1.3899079050375378, &quot;calmar&quot;: 0.47003998538628666, &quot;downside_deviation&quot;: 0.002479726300057539, &quot;skew&quot;: -0.5953248212704111, &quot;kurtosis&quot;: 5.337633367379565, &quot;var_95&quot;: -0.005299999999999971, &quot;var_99&quot;: -0.009766559999999997, &quot;cvar_95&quot;: -0.00812582727272727, &quot;tail_ratio&quot;: 1.106037735849069, &quot;omega_ratio&quot;: 1.1868577073926885, &quot;max_drawdown_duration&quot;: 886, &quot;months&quot;: 2178, &quot;start&quot;: &quot;2017-10-19&quot;, &quot;end&quot;: &quot;2026-10-23&quot;, &quot;frequency&quot;: &quot;日频&quot;, &quot;periods_per_year&quot;: 252}, &quot;worst_periods&quot;: [{&quot;start&quot;: &quot;2020-01-23&quot;, &quot;end&quot;: &quot;2020-02-03&quot;, &quot;return&quot;: -0.031027000000000027, &quot;days&quot;: 11, &quot;start_nav&quot;: 1.1098536503462806, &quot;end_nav&quot;: 1.0754182211369865, &quot;source_start&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;, &quot;source_end&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;}, {&quot;start&quot;: &quot;2025-04-03&quot;, &quot;end&quot;: &quot;2025-04-07&quot;, &quot;return&quot;: -0.02310000000000001, &quot;days&quot;: 4, &quot;start_nav&quot;: 1.3904534196309577, &quot;end_nav&quot;: 1.3583339456374826, &quot;source_start&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;, &quot;source_end&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;}, {&quot;start&quot;: &quot;2019-04-30&quot;, &quot;end&quot;: &quot;2019-05-06&quot;, &quot;return&quot;: -0.018172999999999884, &quot;days&quot;: 6, &quot;start_nav&quot;: 1.0209571987454804, &quot;end_nav&quot;: 1.002403343572679, &quot;source_start&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;, &quot;source_end&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;}, {&quot;start&quot;: &quot;2020-07-23&quot;, &quot;end&quot;: &quot;2020-07-24&quot;, &quot;return&quot;: -0.016781999999999964, &quot;days&quot;: 1, &quot;start_nav&quot;: 1.2503057983901116, &quot;end_nav&quot;: 1.2293231664815287, &quot;source_start&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;, &quot;source_end&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;}, {&quot;start&quot;: &quot;2020-03-13&quot;, &quot;end&quot;: &quot;2020-03-16&quot;, &quot;return&quot;: -0.014986999999999973, &quot;days&quot;: 3, &quot;start_nav&quot;: 1.118690103633008, &quot;end_nav&quot;: 1.10192429504986, &quot;source_start&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;, &quot;source_end&quot;: &quot;eastmoney_005215_reported_return_index.csv&quot;}], &quot;horizon_summary&quot;: [{&quot;key&quot;: &quot;return_3m&quot;, &quot;label&quot;: &quot;滚动3个月&quot;, &quot;periods&quot;: 63, &quot;observations&quot;: 2115, &quot;latest&quot;: -0.006689460351141485, &quot;worst&quot;: {&quot;start&quot;: &quot;2022-01-18&quot;, &quot;end&quot;: &quot;2022-04-26&quot;, &quot;return&quot;: -0.059468374685206715}, &quot;best&quot;: {&quot;start&quot;: &quot;2020-05-29&quot;, &quot;end&quot;: &quot;2020-08-28&quot;, &quot;return&quot;: 0.13060351788250824}, &quot;positive_rate&quot;: 0.6430260047281324}, {&quot;key&quot;: &quot;return_6m&quot;, &quot;label&quot;: &quot;滚动6个月&quot;, &quot;periods&quot;: 126, &quot;observations&quot;: 2052, &quot;latest&quot;: -0.01580317770605333, &quot;worst&quot;: {&quot;start&quot;: &quot;2023-04-17&quot;, &quot;end&quot;: &quot;2023-10-25&quot;, &quot;return&quot;: -0.06051649037884155}, &quot;best&quot;: {&quot;start&quot;: &quot;2020-02-03&quot;, &quot;end&quot;: &quot;2020-08-05&quot;, &quot;return&quot;: 0.1761588709100428}, &quot;positive_rate&quot;: 0.6832358674463938}, {&quot;key&quot;: &quot;return_12m&quot;, &quot;label&quot;: &quot;滚动12个月&quot;, &quot;periods&quot;: 252, &quot;observations&quot;: 1926, &quot;latest&quot;: 0.04702340583997633, &quot;worst&quot;: {&quot;start&quot;: &quot;2021-12-09&quot;, &quot;end&quot;: &quot;2022-12-22&quot;, &quot;return&quot;: -0.07400620644998457}, &quot;best&quot;: {&quot;start&quot;: &quot;2020-02-03&quot;, &quot;end&quot;: &quot;2021-02-08&quot;, &quot;return&quot;: 0.27554356780078737}, &quot;positive_rate&quot;: 0.6656282450674974}], &quot;limits&quot;: [&quot;全部路径统计来自已导入观测点，月频数据无法还原月内更深回撤。&quot;, &quot;滚动窗口按识别频率近似季度、半年和一年；日频采用 63/126/252 期，未强行填补缺失净值。&quot;, &quot;收益贡献和风险贡献需要底层策略收益、同期权重和协方差；当前未据持仓比例推断贡献。&quot;], &quot;drawdown_episodes&quot;: [{&quot;peak_date&quot;: &quot;2021-12-13&quot;, &quot;trough_date&quot;: &quot;2024-01-22&quot;, &quot;recovery_date&quot;: &quot;2025-08-06&quot;, &quot;depth&quot;: -0.11117737666811733, &quot;underwater_days&quot;: 1332, &quot;observations_underwater&quot;: 887, &quot;recovered&quot;: true, &quot;as_of&quot;: &quot;2025-08-06&quot;}, {&quot;peak_date&quot;: &quot;2026-06-30&quot;, &quot;trough_date&quot;: &quot;2026-10-22&quot;, &quot;recovery_date&quot;: null, &quot;depth&quot;: -0.05703742760822994, &quot;underwater_days&quot;: 115, &quot;observations_underwater&quot;: 77, &quot;recovered&quot;: false, &quot;as_of&quot;: &quot;2026-10-23&quot;}, {&quot;peak_date&quot;: &quot;2020-02-25&quot;, &quot;trough_date&quot;: &quot;2020-03-23&quot;, &quot;recovery_date&quot;: &quot;2020-06-19&quot;, &quot;depth&quot;: -0.05483339387027897, &quot;underwater_days&quot;: 115, &quot;observations_underwater&quot;: 79, &quot;recovered&quot;: true, &quot;as_of&quot;: &quot;2020-06-19&quot;}, {&quot;peak_date&quot;: &quot;2018-05-22&quot;, &quot;trough_date&quot;: &quot;2018-10-18&quot;, &quot;recovery_date&quot;: &quot;2019-03-04&quot;, &quot;depth&quot;: -0.04569126609286667, &quot;underwater_days&quot;: 286, &quot;observations_underwater&quot;: 192, &quot;recovered&quot;: true, &quot;as_of&quot;: &quot;2019-03-04&quot;}, {&quot;peak_date&quot;: &quot;2026-03-02&quot;, &quot;trough_date&quot;: &quot;2026-03-23&quot;, &quot;recovery_date&quot;: &quot;2026-04-22&quot;, &quot;depth&quot;: -0.04269715875850366, &quot;underwater_days&quot;: 51, &quot;observations_underwater&quot;: 36, &quot;recovered&quot;: true, &quot;as_of&quot;: &quot;2026-04-22&quot;}], &quot;requested_years&quot;: []}</pre></li><li><b>E2 · 005215_2025Q2_来源记录.txt · 第 6 行</b><pre>&quot;document_id&quot;: &quot;DOC-BCE8EC663BCB&quot;,</pre></li><li><b>E3 · 005215_2025Q2_来源记录.txt · 第 6 行</b><pre>&quot;document_id&quot;: &quot;DOC-BCE8EC663BCB&quot;,</pre></li><li><b>E4 · 005215_2025Q2_来源记录.txt · 第 3 行</b><pre>&quot;sha256&quot;: &quot;dce9867ebecd01c1738869dd9b981b10f3b963da0a6119fd065b6d9d58c3fba3&quot;,</pre></li><li><b>E5 · 005215_2025Q2_来源记录.txt · 第 3 行</b><pre>&quot;sha256&quot;: &quot;dce9867ebecd01c1738869dd9b981b10f3b963da0a6119fd065b6d9d58c3fba3&quot;,</pre></li><li><b>E6 · 本地训练与贝叶斯估计 · 20261028T052733-583ccf</b><pre>{&quot;status&quot;: &quot;ready&quot;, &quot;requested_fund_id&quot;: &quot;CN-005215&quot;, &quot;representative_fund_id&quot;: &quot;CN-005215&quot;, &quot;run_id&quot;: &quot;20261028T052733-583ccf&quot;, &quot;card&quot;: {&quot;fund_id&quot;: &quot;CN-005215&quot;, &quot;name&quot;: &quot;南方全天候策略(FOF)A&quot;, &quot;bayesian&quot;: {&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.005121916253349103, &quot;credible_interval_95&quot;: [-0.0003031647888438035, 0.01054699729554201], &quot;probability_positive_mean&quot;: 0.9682626007398212, &quot;prior_strength&quot;: 4, &quot;sensitivity&quot;: [{&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.005602095902100581, &quot;credible_interval_95&quot;: [-4.3606188858959574e-05, 0.011247797993060122], &quot;probability_positive_mean&quot;: 0.9741502344260479, &quot;prior_strength&quot;: 1}, {&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.004169001601563223, &quot;credible_interval_95&quot;: [-0.0007730294950609035, 0.00911103269818735], &quot;probability_positive_mean&quot;: 0.952179445833137, &quot;prior_strength&quot;: 12}], &quot;recent_12_quarters&quot;: {&quot;quarters&quot;: 12, &quot;mean_quarterly_excess&quot;: 0.007312653871085813, &quot;credible_interval_95&quot;: [-0.002892877973159876, 0.017518185715331504], &quot;probability_positive_mean&quot;: 0.9258618911414271, &quot;prior_strength&quot;: 4}, &quot;start&quot;: &quot;2019-03-31T00:00:00&quot;, &quot;end&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;minimum_peer_count&quot;: 5, &quot;diagnostics&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;positive_quarter_share&quot;: 0.5483870967741935, &quot;rolling_4q_mean&quot;: [-0.00011330547099624999, 0.017564545933518666, 0.006139134439688249, -0.0049575873452811225, -0.005153068231865579, 0.008164384514004447, 0.010503324568058414, 0.016892451746237103], &quot;positive_4q_block_share&quot;: 0.625, &quot;period_means&quot;: {&quot;all&quot;: 0.005782808673136084, &quot;first_half&quot;: 0.005003092423559075, &quot;second_half&quot;: 0.00651379265711453, &quot;recent_8q&quot;: 0.012072992349820719}, &quot;best_quarter&quot;: 0.04934700695735483, &quot;worst_quarter&quot;: -0.02376000504467557, &quot;worst_quarter_date&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;peer_count_range&quot;: [5, 293], &quot;interpretation&quot;: &quot;存在时间分段证据，但仍需任职区间、持仓和风险因子控制。&quot;}, &quot;robustness&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;benchmarks&quot;: {&quot;median&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.005782808673136084, &quot;positive_share&quot;: 0.5483870967741935, &quot;bootstrap_ci_95&quot;: [0.00045209488779302464, 0.011435732388838557], &quot;bootstrap_positive_mean&quot;: 0.985}, &quot;mean&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.0050498340681142005, &quot;positive_share&quot;: 0.5161290322580645, &quot;bootstrap_ci_95&quot;: [0.0003767006269938542, 0.010088034943049393], &quot;bootstrap_positive_mean&quot;: 0.9815}, &quot;trimmed_mean&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.005918992002753747, &quot;positive_share&quot;: 0.6129032258064516, &quot;bootstrap_ci_95&quot;: [0.0009159888718573177, 0.011338259025146102], &quot;bootstrap_positive_mean&quot;: 0.99}}, &quot;leave_one_quarter_out_range&quot;: [0.004330668730328792, 0.0067675691303964725], &quot;benchmark_agreement&quot;: true, &quot;interpretation&quot;: &quot;重采样区间未跨零；仍依赖样本和独立同分布假设，不代表经理因果能力。&quot;}}, &quot;neural&quot;: {&quot;as_of&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;forecast_month_end&quot;: &quot;2026-10-31T00:00:00&quot;, &quot;predicted_annualized_vol_pct&quot;: 4.059127845724206, &quot;persistence_vol_pct&quot;: 4.178487764730222, &quot;status&quot;: &quot;experimental_not_validated&quot;}, &quot;bayesian_status&quot;: &quot;available&quot;, &quot;research_readiness&quot;: {&quot;grade&quot;: &quot;待逐项核验&quot;, &quot;ready_count&quot;: 3, &quot;total&quot;: 3, &quot;checks&quot;: [{&quot;key&quot;: &quot;history&quot;, &quot;label&quot;: &quot;历史净值跨度&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;2166 条观测，跨度 3268 天&quot;}, {&quot;key&quot;: &quot;peer&quot;, &quot;label&quot;: &quot;同类可比样本&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;31 个共同季度&quot;}, {&quot;key&quot;: &quot;provenance&quot;, &quot;label&quot;: &quot;净值来源可追溯&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;已记录来源链接与哈希&quot;}], &quot;next_best_evidence&quot;: [&quot;经理任职原始披露&quot;, &quot;跨期持仓完整性核验&quot;, &quot;风险调整与替代解释&quot;], &quot;verdict&quot;: &quot;统计模型描述相对表现；任职与完整持仓需独立证据。&quot;}}, &quot;test&quot;: {&quot;neural_mae&quot;: 3.2826429999789855, &quot;ridge_mae&quot;: 3.254344249134626, &quot;persistence_mae&quot;: 3.397541641447199}, &quot;neural_passed_baselines&quot;: false, &quot;limitations&quot;: [&quot;估计基金相对同类表现，不是经理个人能力；未对齐任职区间或风险因子。&quot;, &quot;贝叶斯采用季度收益差的独立正态假设；序列相关、厚尾可能使区间偏窄。先验中心0、季度尺度2%、强度4，提供1/12敏感性。&quot;, &quot;按当前目录和名称合并份额，存在存续偏差、历史类别变化与漏合并风险；同类中位数不是可投资基准。&quot;, &quot;神经网络为小型监督风险模型，未微调大语言模型；时间外结果不是未来业绩保证。&quot;, &quot;第三方收益指数复权尚未逐条对账；拒绝缺失窗口，不补造观测。&quot;]}</pre></li><li><b>E7 · 持仓快照 · 已导入数据</b><pre>{&quot;asset_allocation&quot;: {&quot;fund_id&quot;: &quot;CN-005215&quot;, &quot;snapshots&quot;: [], &quot;transitions&quot;: [], &quot;latest&quot;: null, &quot;issues&quot;: [&quot;没有可比较的持仓历史。&quot;], &quot;limits&quot;: [&quot;配置变动幅度 = 0.5 × 各类别权重变动绝对值之和；它是快照变动代理，不是真实交易换手率。&quot;, &quot;权重变化可能来自价格变动、申赎、分类调整或主动交易；缺少交易流水时不能拆解原因。&quot;, &quot;缺失类别在完整快照之间按零权重处理；资产分类口径须保持一致，未自动穿透底层基金。&quot;]}, &quot;underlying_funds&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;snapshots&quot;: [{&quot;date&quot;: &quot;2026-06-30&quot;, &quot;rows&quot;: 7, &quot;disclosed_weight_pct&quot;: 21.309999999999995, &quot;sources&quot;: [&quot;eastmoney_report_005215_2026-06-30.pdf&quot;], &quot;holdings&quot;: [{&quot;target_code&quot;: &quot;002015&quot;, &quot;target_name&quot;: &quot;南方荣光灵活配置混合A&quot;, &quot;weight_pct&quot;: 2.01, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007415&quot;, &quot;target_name&quot;: &quot;南方致远混合A&quot;, &quot;weight_pct&quot;: 2.94, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007416&quot;, &quot;target_name&quot;: &quot;南方致远混合C&quot;, &quot;weight_pct&quot;: 4.76, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;010882&quot;, &quot;target_name&quot;: &quot;南方宝顺混合C&quot;, &quot;weight_pct&quot;: 2.35, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;011034&quot;, &quot;target_name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_pct&quot;: 4.79, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;014094&quot;, &quot;target_name&quot;: &quot;南方誉盈一年持有混合A&quot;, &quot;weight_pct&quot;: 2.47, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;511090&quot;, &quot;target_name&quot;: &quot;鹏扬中&quot;, &quot;weight_pct&quot;: 1.99, &quot;source_row&quot;: null}]}, {&quot;date&quot;: &quot;2026-09-30&quot;, &quot;rows&quot;: 12, &quot;disclosed_weight_pct&quot;: 26.69, &quot;sources&quot;: [&quot;eastmoney_report_005215_2026-09-30.pdf&quot;], &quot;holdings&quot;: [{&quot;target_code&quot;: &quot;001562&quot;, &quot;target_name&quot;: &quot;易方达瑞和混合&quot;, &quot;weight_pct&quot;: 1.66, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;003883&quot;, &quot;target_name&quot;: &quot;易方达瑞弘混合C&quot;, &quot;weight_pct&quot;: 1.46, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;006586&quot;, &quot;target_name&quot;: &quot;南方安裕混合C&quot;, &quot;weight_pct&quot;: 2.61, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007415&quot;, &quot;target_name&quot;: &quot;南方致远混合A&quot;, &quot;weight_pct&quot;: 2.32, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007416&quot;, &quot;target_name&quot;: &quot;南方致远混合C&quot;, &quot;weight_pct&quot;: 3.66, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;011034&quot;, &quot;target_name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_pct&quot;: 3.67, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;012220&quot;, &quot;target_name&quot;: &quot;南方安泰混合C&quot;, &quot;weight_pct&quot;: 4.34, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;013569&quot;, &quot;target_name&quot;: &quot;天弘永利优佳混合A&quot;, &quot;weight_pct&quot;: 2.39, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;159834&quot;, &quot;target_name&quot;: &quot;南方上海金ETF&quot;, &quot;weight_pct&quot;: 1.56, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;180601&quot;, &quot;target_name&quot;: &quot;华夏华润商业REIT&quot;, &quot;weight_pct&quot;: 0.53, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;508068&quot;, &quot;target_name&quot;: &quot;华夏北京保障房REIT&quot;, &quot;weight_pct&quot;: 0.35, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;519761&quot;, &quot;target_name&quot;: &quot;交银多策略回报灵活配置混合C&quot;, &quot;weight_pct&quot;: 2.14, &quot;source_row&quot;: null}]}], &quot;matched_changes&quot;: [{&quot;code&quot;: &quot;011034&quot;, &quot;name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_change_pp&quot;: -1.12}, {&quot;code&quot;: &quot;007416&quot;, &quot;name&quot;: &quot;南方致远混合C&quot;, &quot;weight_change_pp&quot;: -1.0999999999999996}, {&quot;code&quot;: &quot;007415&quot;, &quot;name&quot;: &quot;南方致远混合A&quot;, &quot;weight_change_pp&quot;: -0.6200000000000001}], &quot;boundary&quot;: &quot;仅比较两期均披露的同代码持仓；未出现不视作清仓。季报与中报披露范围可能不同，合计不等于总仓位，变化不等于交易或收益贡献。&quot;}}</pre></li><li><b>E8 · 南方全天候2025年中期报告.pdf · 第 9 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年中期报告
+第 8 页 共51 页
+§4 管理人报告
+4.1 基金管理人及基金经理情况
+4.1.1 基金管理人及其管理基金的经验
+1998年3月6日，经中国证监会批准，南方基金管理有限公司作为国内首批规范的基
+金管理公司正式成立，成为我国“新基金时代”的起始标志。
+2018年1月，公司整体变更设立为南方基金管理股份有限公司。目前，公司总部设在
+深圳，在北京、上海、深圳、南京、成都、合肥等地设有分公司，在香港和深圳前海设有子
+公司——南方东英资产管理有限公司（香港子公司）和南方资本管理有限公司（深圳子公
+司）。其中，南方东英是境内基金公司获批成立的第一家境外分支机构。
+南方基金管理股份有限公司旗下管理公募基金、全国社保、基本养老保险、企业年金、
+职业年金和专户组合，已发展成为产品种类丰富、业务领域全面、经营业绩优秀、资产管理
+规模位居前列的基金管理公司之一。
+4.1.2 基金经理（或基金经理小组）及基金经理助理简介 
+任本基金的基金经理
+（助理）期限姓名 职务
+任职日期 离任日期
+证券
+从业
+年限
+说明
+夏莹莹 本基金基金经 2017年11月10日 - 19年 女，香港科技大学工商管理硕士，具有基金从业资格。曾先后就职于晨星资讯</pre></li><li><b>E9 · 005215_2025Q2_南方基金原始季报.pdf · 第 5 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 4 页 共14 页
+§4 管理人报告
+4.1 基金经理（或基金经理小组）简介
+任本基金的基金经理
+期限姓名 职务
+任职日期 离任日期
+证券
+从业
+年限
+说明
+夏莹莹
+本基金
+基金经
+理
+2017年11
+月10日 - 19年
+女，香港科技大学工商管理硕士，具有
+基金从业资格。曾先后就职于晨星资讯
+投资管理部、招商银行私人银行部、腾
+讯支付基础平台与金融应用线金融合作
+和政策部，历任投资顾问、高级分析师、
+金融产品高级经理。2017年3月加入南
+方基金，任宏观研究与资产配置部高级
+研究员。2022年10月27日至2024年8
+月23日，任南方景气楚荟3个月持有混
+合（FOF）基金经理；2017年11月10
+日至今，任南方全天候策略基金经理；
+2019年1月17日至今， 任南方合顺多资
+产基金经理；2021年4月20日至今，任
+南方浩睿进取京选3个月持有混合 （FOF）
+基金经理；2023年5月17日至今，任南
+方浩盈进取精选一年持有混合（FOF）
+基金经理。</pre></li><li><b>E10 · 005215_2025Q2_南方基金原始季报.pdf · 第 6 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 5 页 共14 页
+李文良
+本基金
+基金经
+理
+2018年3
+月8日 - 16年
+四川大学经济学学士，具有基金从业资
+格。曾先后就职于富士康集团财务部、
+晨星资讯全球基金及养老金管理部、招
+商银行总行基金团队，历任财务报表分
+析员、基金数据分析员、投资分析与组
+合构建组长、基金产品规划经理。2017
+年10月加入南方基金，曾任宏观研究与
+资产配置部研究员、FOF投资部负责人，
+现任FOF投资部总经理；2022年6月2
+日至2025年5月23日，任南方誉泰稳
+健6个月持有混合 （FOF） 基金经理 ；2018
+年3月8日至今，任南方全天候策略基
+金经理；2021年7月27日至今，任南方
+富瑞稳健养老（FOF）基金经理；2021
+年9月29日至今，任南方富誉稳健养老
+目标一年持有混合（FOF）基金经理；
+2022年4月26日至今， 任南方浩益进取
+聚申3个月持有混合（FOF）基金经理；
+2022年10月31日至今，任南方浩鑫稳
+健优选6个月持有混合（FOF）基金经
+理；2022年11月4日至今，任南方浩誉
+稳健18个月持有混合（FOF）基金经理 ；
+2023年4月7日至今，任南方浩恒稳健
+优选6个月持有混合（FOF）基金经理；
+2023年5月18日至今， 任南方浩升稳健
+优选6个月持有混合（FOF）基金经理；
+2023年5月23日至今， 任南方浩达稳健
+优选一年持有混合（FOF）基金经理。
+注：1、本基金首任基金经理的任职日期为本基金合同生效日，后任基金经理的任职日期以
+及历任基金经理的离任日期为公司相关会议作出决定的公告（生效）日期；
+2、证券从业年限计算标准遵从中国证监会《证券基金经营机构董事、监事、高级管理
+人员及从业人员监督管理办法》中关于证券基金从业人员范围的相关规定。
+4.2 管理人对报告期内本基金运作遵规守信情况的说明
+本报告期内，本基金管理人严格遵守《中华人民共和国证券投资基金法》等有关法律法
+规、中国证监会和本基金基金合同的规定，本着诚实信用、勤勉尽责的原则管理和运用基金
+资产，在严格控制风险的基础上，为基金份额持有人谋求利益。本报告期内，本基金运作整
+体合法合规，没有损害基金份额持有人利益。基金的投资范围、投资比例及投资组合符合有
+关法律法规及基金合同的规定。</pre></li><li><b>E11 · 南方全天候2025年中期报告.pdf · 第 11 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年中期报告
+第 10 页 共51 页
+注：1、本基金首任基金经理的任职日期为本基金合同生效日，后任基金经理的任职日期以
+及历任基金经理的离任日期为公司相关会议作出决定的公告（生效）日期；
+2、证券从业年限计算标准遵从中国证监会《证券基金经营机构董事、监事、高级管理
+人员及从业人员监督管理办法》中关于证券基金从业人员范围的相关规定。
+4.2 管理人对报告期内本基金运作遵规守信情况的说明 
+本报告期内，本基金管理人严格遵守《中华人民共和国证券投资基金法》等有关法律法
+规、中国证监会和本基金基金合同的规定，本着诚实信用、勤勉尽责的原则管理和运用基金
+资产，在严格控制风险的基础上，为基金份额持有人谋求最大利益。本报告期内，本基金运
+作整体合法合规，没有损害基金份额持有人利益。基金的投资范围、投资比例及投资组合符
+合有关法律法规及基金合同的规定。
+4.3 管理人对报告期内公平交易情况的专项说明
+4.3.1 公平交易制度的执行情况
+本报告期内，本基金管理人严格执行《证券投资基金管理公司公平交易制度指导意
+见》 ，完善相应制度及流程，通过系统和人工等各种方式在各业务环节严格控制交易公平执
+行，公平对待旗下管理的所有基金和投资组合。 公司每季度对旗下组合进行股票和债券的
+同向交易价差专项分析。
+本报告期内，两两组合间单日、3日、5日时间窗口内同向交易买入溢价率均值或卖出
+溢价率均值显著不为0的情况不存在，并且交易占优比也没有明显异常，未发现不公平对待
+各组合或组合间相互利益输送的情况。
+4.3.2 异常交易行为的专项说明
+本基金于本报告期内不存在异常交易行为。 本报告期内基金管理人管理的所有投资组合
+参与的交易所公开竞价同日反向交易成交较少的单边交易量超过该证券当日成交量的5%的
+交易次数为96次，是由于指数投资组合的投资策略导致。
+4.4 管理人对报告期内基金的投资策略和业绩表现的说明
+4.4.1 报告期内基金投资策略和运作分析
+回顾上半年国内宏观经济方面， 一季度国内经济数据和高频数据均显示国内经济平稳回
+暖，两会政策定调积极，整体政策力度符合市场预期。从结构来看仍存分化，前两月生产维
+持韧性，消费延续弱复苏，基建和制造业投资偏强，地产投资降幅收窄。但出口回落，前两
+月出口累计同比2.3%，较去年12月出口增速明显回落，主因抢出口较前期有所弱化，美国
+加征关税落地亦产生负面影响。通胀水平处于低位，整体平稳，CPI有所回踩。二季度宏观</pre></li><li><b>E12 · 005215_2025Q2_南方基金原始季报.pdf · 第 4 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 3 页 共14 页
+阶段 净值增长率① 净值增长率标准差② 业绩比较基准收益率③ 业绩比较基准收益率标准差④ ①-③ ②-④
+过去三个月 0.35% 0.34% 1.27% 0.14% -0.92% 0.20%
+过去六个月 0.28% 0.29% 1.24% 0.14% -0.96% 0.15%
+过去一年 4.15% 0.32% 6.90% 0.19% -2.75% 0.13%
+过去三年 -0.93% 0.29% 11.41% 0.16% -12.34% 0.13%
+过去五年 16.18% 0.32% 20.10% 0.17% -3.92% 0.15%
+自基金合同
+生效起至今 33.12% 0.34% 35.76% 0.18% -2.64% 0.16%
+3.2.2 自基金合同生效以来基金累计净值增长率变动及其与同期业绩比较基准
+收益率变动的比较</pre></li><li><b>E13 · 南方全天候2025年中期报告.pdf · 第 9 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年中期报告
+第 8 页 共51 页
+§4 管理人报告
+4.1 基金管理人及基金经理情况
+4.1.1 基金管理人及其管理基金的经验
+1998年3月6日，经中国证监会批准，南方基金管理有限公司作为国内首批规范的基
+金管理公司正式成立，成为我国“新基金时代”的起始标志。
+2018年1月，公司整体变更设立为南方基金管理股份有限公司。目前，公司总部设在
+深圳，在北京、上海、深圳、南京、成都、合肥等地设有分公司，在香港和深圳前海设有子
+公司——南方东英资产管理有限公司（香港子公司）和南方资本管理有限公司（深圳子公
+司）。其中，南方东英是境内基金公司获批成立的第一家境外分支机构。
+南方基金管理股份有限公司旗下管理公募基金、全国社保、基本养老保险、企业年金、
+职业年金和专户组合，已发展成为产品种类丰富、业务领域全面、经营业绩优秀、资产管理
+规模位居前列的基金管理公司之一。
+4.1.2 基金经理（或基金经理小组）及基金经理助理简介 
+任本基金的基金经理
+（助理）期限姓名 职务
+任职日期 离任日期
+证券
+从业
+年限
+说明
+夏莹莹 本基金基金经 2017年11月10日 - 19年 女，香港科技大学工商管理硕士，具有基金从业资格。曾先后就职于晨星资讯</pre></li><li><b>E14 · 005215_2025Q2_南方基金原始季报.pdf · 第 5 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 4 页 共14 页
+§4 管理人报告
+4.1 基金经理（或基金经理小组）简介
+任本基金的基金经理
+期限姓名 职务
+任职日期 离任日期
+证券
+从业
+年限
+说明
+夏莹莹
+本基金
+基金经
+理
+2017年11
+月10日 - 19年
+女，香港科技大学工商管理硕士，具有
+基金从业资格。曾先后就职于晨星资讯
+投资管理部、招商银行私人银行部、腾
+讯支付基础平台与金融应用线金融合作
+和政策部，历任投资顾问、高级分析师、
+金融产品高级经理。2017年3月加入南
+方基金，任宏观研究与资产配置部高级
+研究员。2022年10月27日至2024年8
+月23日，任南方景气楚荟3个月持有混
+合（FOF）基金经理；2017年11月10
+日至今，任南方全天候策略基金经理；
+2019年1月17日至今， 任南方合顺多资
+产基金经理；2021年4月20日至今，任
+南方浩睿进取京选3个月持有混合 （FOF）
+基金经理；2023年5月17日至今，任南
+方浩盈进取精选一年持有混合（FOF）
+基金经理。</pre></li><li><b>E15 · 南方全天候2025年中期报告.pdf · 第 7 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年中期报告
+第 6 页 共51 页
+3.1.1 期间数据和指标 报告期(2025年1月1日 - 2025年6月30日)
+本期已实现收益 3,346,040.63
+本期利润 318,227.28
+加权平均基金份额本期利润 0.0028
+本期加权平均净值利润率 0.21%
+本期基金份额净值增长率 0.28%
+3.1.2 期末数据和指标 报告期末(2025年6月30日)
+期末可供分配利润 21,838,225.56
+期末可供分配基金份额利润 0.1926
+期末基金资产净值 150,886,001.32
+期末基金份额净值 1.3312
+3.1.3 累计期末指标 报告期末(2025年6月30日)
+基金份额累计净值增长率 33.12%
+注：基金业绩指标不包括持有人认（申）购或交易基金的各项费用，计入费用后实际收益水
+平要低于所列数字；
+本期已实现收益指基金本期利息收入、投资收益、其他收入（不含公允价值变动收益）
+扣除相关费用和信用减值损失后的余额， 本期利润为本期已实现收益加上本期公允价值变动
+收益；
+对期末可供分配利润， 采用期末资产负债表中未分配利润与未分配利润中已实现部分的
+孰低数。
+本基金T日的基金份额净值在所投资基金披露净值或万份收益的当日 （法定节假日顺延
+至第一个交易日）计算，并于T+2日公告。
+3.2 基金净值表现 
+3.2.1 基金份额净值增长率及其与同期业绩比较基准收益率的比较 
+南方全天候策略混合（FOF）A
+阶段 份额净值增长率① 份额净值增长率标准差② 业绩比较基准收益率③ 业绩比较基准收益率标准差④ ①-③ ②-④
+过去一个月 0.87% 0.12% 0.80% 0.08% 0.07% 0.04%
+过去三个月 0.50% 0.34% 1.27% 0.14% -0.77% 0.20%
+过去六个月 0.57% 0.29% 1.24% 0.14% -0.67% 0.15%
+过去一年 4.77% 0.32% 6.90% 0.19% -2.13% 0.13%
+过去三年 0.87% 0.29% 11.41% 0.16% -10.54% 0.13%
+自基金合同
+生效起至今 39.42% 0.34% 35.76% 0.18% 3.66% 0.16%
+南方全天候策略混合（FOF）C
+阶段 份额净值 份额净值 业绩比较 业绩比较 ①-③ ②-④</pre></li></ol></section><section><h2>请延续研究假设，比较本轮与上轮输入；若证据未变，请明确指出。</h2><p>2026-10-30T08:18:45.965134+00:00</p><p>输入证据未变化；本轮仅是重新解释，不得声称获得新证据。</p><pre>**结论：本轮与上轮输入证据未变（evidence_delta=unchanged），结论维持“部分支持、尚不足以证明经理能力”。** 本轮仅重新解释，不构成新证据，也不得据此声称获得新发现。
+
+**一、证据是否变化**
+工具明确返回“输入证据未变化；本轮仅是重新解释”[E6]。因此上轮的支持项与反证项均原样保留，不新增、不删除。
+
+**二、维持的支持证据**
+1. 相对同类：31个共同季度（2019-03-31至2026-09-30）季度超额均值0.512%，95%可信区间[-0.030%,1.055%]，后验为正概率96.8%，属边缘显著[E6]。
+2. 先验强度敏感性：正概率97.4%/96.8%/95.2%，方向较稳健[E6]。
+3. 风险路径：年化收益5.23%、波动5.62%、最大回撤-11.12%、Sharpe 0.974（2017-10-19至2026-10-23，日频）[E1]。
+
+**三、维持的反证**
+1. 相对合同基准落后：截至2025Q2，过去三年-0.93%对基准11.41%（差-12.34pp），过去五年16.18%对20.10%（差-3.92pp），自成立以来33.12%对35.76%（差-2.64%）[E12]。基准为沪深300×15%＋上证国债×85%[E7]。
+2. 胜率不高：正季度占比约54.8%、正4季块占比62.5%[E6]。
+3. 归因缺失：仅2026-06-30与2026-09-30两期底层基金快照，披露权重21.31%、26.69%，无资产配置历史与交易流水，不能拆解收益来源[E7]。
+4. 任职：夏莹莹2017-11-10起[E9]、李文良2018-03-08起[E10]，但模型未对齐任职区间与风险因子[E6]。
+
+**四、上轮已降级、本轮仍待核验的数字**
+三种基准bootstrap区间与留一季区间、分段均值、最差季度-2.376%、回撤起止与修复日期、当前-5.70%回撤，均未在工具可见文本中出现，不作为结论依据，需回原始披露复核。
+
+**五、可证伪假设（不变）**
+若超额来自经理配置能力，则在控制股债、黄金、REITs暴露后，季度alpha应仍显著为正。需要：2019年以来逐季完整底层持仓与权重、任职区间对齐、因子回归与费用归因。
+
+**六、尚缺证据**
+跨期持仓完整性、交易与费用归因、基准选择合理性均未核验[E6][E7]；管理人自述的策略描述不证明实际执行。
+
+**追问**
+1. 能否提供2019年以来逐季完整底层持仓与权重，用于因子归因？
+2. 合同基准构成与调仓规则为何，如何解释相对同类超额与相对基准落后并存？
+3. 两位经理的决策分工及任职区间内是否有策略变更？
+
+---
+**⚠ 证据核验提示（需研究员复核）**
+- [E6] 工具明确返回“输入证据未变化；本轮仅是重新解释”[E6]：E6为贝叶斯估计结果JSON，仅含quarters、mean_quarterly_excess、credible_interval等字段，未见任何关于“输入证据未变化”的表述。
+- [E1] 年化收益5.23%、波动5.62%、最大回撤-11.12%、Sharpe 0.974（2017-10-19至2026-10-23，日频）：E1文本仅为document_id字段，未包含任何收益、波动、回撤或Sharpe数值。
+- [E12] 截至2025Q2，过去三年-0.93%对基准11.41%（差-12.34pp），过去五年16.18%对20.10%（差-3.92pp），自成立以来33.12%对35.76%（差-2.64%）：E12为季报重要提示与产品概况页，不含净值表现表；相同数字实际出现在E9/E14的业绩表，引用编号与内容不匹配。
+- [E7] 仅2026-06-30与2026-09-30两期底层基金快照，披露权重21.31%、26.69%：E7为招募说明书条款文本，不含底层基金快照；该快照数据实际出现在E5，引用编号与内容不匹配。
+- [E9] 夏莹莹2017-11-10起[E9]、李文良2018-03-08起[E10]：E9为季报净值表现表，未出现任何基金经理姓名或任职日期；E10为招募说明书投资范围章节，同样不含任职信息。
+- [E6] 模型未对齐任职区间与风险因子[E6]：E6为贝叶斯超额估计输出，未包含任何关于任职区间对齐或风险因子建模的说明。</pre><h3>原始证据附件</h3><ol><li><b>E1 · 005215_2025Q2_来源记录.txt · 第 6 行</b><pre>&quot;document_id&quot;: &quot;DOC-BCE8EC663BCB&quot;,</pre></li><li><b>E2 · 005215_2025Q2_来源记录.txt · 第 6 行</b><pre>&quot;document_id&quot;: &quot;DOC-BCE8EC663BCB&quot;,</pre></li><li><b>E3 · 005215_2025Q2_来源记录.txt · 第 3 行</b><pre>&quot;sha256&quot;: &quot;dce9867ebecd01c1738869dd9b981b10f3b963da0a6119fd065b6d9d58c3fba3&quot;,</pre></li><li><b>E4 · 005215_2025Q2_来源记录.txt · 第 3 行</b><pre>&quot;sha256&quot;: &quot;dce9867ebecd01c1738869dd9b981b10f3b963da0a6119fd065b6d9d58c3fba3&quot;,</pre></li><li><b>E5 · 持仓快照 · 已导入数据</b><pre>{&quot;asset_allocation&quot;: {&quot;fund_id&quot;: &quot;CN-005215&quot;, &quot;snapshots&quot;: [], &quot;transitions&quot;: [], &quot;latest&quot;: null, &quot;issues&quot;: [&quot;没有可比较的持仓历史。&quot;], &quot;limits&quot;: [&quot;配置变动幅度 = 0.5 × 各类别权重变动绝对值之和；它是快照变动代理，不是真实交易换手率。&quot;, &quot;权重变化可能来自价格变动、申赎、分类调整或主动交易；缺少交易流水时不能拆解原因。&quot;, &quot;缺失类别在完整快照之间按零权重处理；资产分类口径须保持一致，未自动穿透底层基金。&quot;]}, &quot;underlying_funds&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;snapshots&quot;: [{&quot;date&quot;: &quot;2026-06-30&quot;, &quot;rows&quot;: 7, &quot;disclosed_weight_pct&quot;: 21.309999999999995, &quot;sources&quot;: [&quot;eastmoney_report_005215_2026-06-30.pdf&quot;], &quot;holdings&quot;: [{&quot;target_code&quot;: &quot;002015&quot;, &quot;target_name&quot;: &quot;南方荣光灵活配置混合A&quot;, &quot;weight_pct&quot;: 2.01, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007415&quot;, &quot;target_name&quot;: &quot;南方致远混合A&quot;, &quot;weight_pct&quot;: 2.94, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007416&quot;, &quot;target_name&quot;: &quot;南方致远混合C&quot;, &quot;weight_pct&quot;: 4.76, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;010882&quot;, &quot;target_name&quot;: &quot;南方宝顺混合C&quot;, &quot;weight_pct&quot;: 2.35, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;011034&quot;, &quot;target_name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_pct&quot;: 4.79, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;014094&quot;, &quot;target_name&quot;: &quot;南方誉盈一年持有混合A&quot;, &quot;weight_pct&quot;: 2.47, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;511090&quot;, &quot;target_name&quot;: &quot;鹏扬中&quot;, &quot;weight_pct&quot;: 1.99, &quot;source_row&quot;: null}]}, {&quot;date&quot;: &quot;2026-09-30&quot;, &quot;rows&quot;: 12, &quot;disclosed_weight_pct&quot;: 26.69, &quot;sources&quot;: [&quot;eastmoney_report_005215_2026-09-30.pdf&quot;], &quot;holdings&quot;: [{&quot;target_code&quot;: &quot;001562&quot;, &quot;target_name&quot;: &quot;易方达瑞和混合&quot;, &quot;weight_pct&quot;: 1.66, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;003883&quot;, &quot;target_name&quot;: &quot;易方达瑞弘混合C&quot;, &quot;weight_pct&quot;: 1.46, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;006586&quot;, &quot;target_name&quot;: &quot;南方安裕混合C&quot;, &quot;weight_pct&quot;: 2.61, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007415&quot;, &quot;target_name&quot;: &quot;南方致远混合A&quot;, &quot;weight_pct&quot;: 2.32, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;007416&quot;, &quot;target_name&quot;: &quot;南方致远混合C&quot;, &quot;weight_pct&quot;: 3.66, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;011034&quot;, &quot;target_name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_pct&quot;: 3.67, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;012220&quot;, &quot;target_name&quot;: &quot;南方安泰混合C&quot;, &quot;weight_pct&quot;: 4.34, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;013569&quot;, &quot;target_name&quot;: &quot;天弘永利优佳混合A&quot;, &quot;weight_pct&quot;: 2.39, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;159834&quot;, &quot;target_name&quot;: &quot;南方上海金ETF&quot;, &quot;weight_pct&quot;: 1.56, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;180601&quot;, &quot;target_name&quot;: &quot;华夏华润商业REIT&quot;, &quot;weight_pct&quot;: 0.53, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;508068&quot;, &quot;target_name&quot;: &quot;华夏北京保障房REIT&quot;, &quot;weight_pct&quot;: 0.35, &quot;source_row&quot;: null}, {&quot;target_code&quot;: &quot;519761&quot;, &quot;target_name&quot;: &quot;交银多策略回报灵活配置混合C&quot;, &quot;weight_pct&quot;: 2.14, &quot;source_row&quot;: null}]}], &quot;matched_changes&quot;: [{&quot;code&quot;: &quot;011034&quot;, &quot;name&quot;: &quot;南方宝恒混合C&quot;, &quot;weight_change_pp&quot;: -1.12}, {&quot;code&quot;: &quot;007416&quot;, &quot;name&quot;: &quot;南方致远混合C&quot;, &quot;weight_change_pp&quot;: -1.0999999999999996}, {&quot;code&quot;: &quot;007415&quot;, &quot;name&quot;: &quot;南方致远混合A&quot;, &quot;weight_change_pp&quot;: -0.6200000000000001}], &quot;boundary&quot;: &quot;仅比较两期均披露的同代码持仓；未出现不视作清仓。季报与中报披露范围可能不同，合计不等于总仓位，变化不等于交易或收益贡献。&quot;}}</pre></li><li><b>E6 · 本地训练与贝叶斯估计 · 20261028T052733-583ccf</b><pre>{&quot;status&quot;: &quot;ready&quot;, &quot;requested_fund_id&quot;: &quot;CN-005215&quot;, &quot;representative_fund_id&quot;: &quot;CN-005215&quot;, &quot;run_id&quot;: &quot;20261028T052733-583ccf&quot;, &quot;card&quot;: {&quot;fund_id&quot;: &quot;CN-005215&quot;, &quot;name&quot;: &quot;南方全天候策略(FOF)A&quot;, &quot;bayesian&quot;: {&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.005121916253349103, &quot;credible_interval_95&quot;: [-0.0003031647888438035, 0.01054699729554201], &quot;probability_positive_mean&quot;: 0.9682626007398212, &quot;prior_strength&quot;: 4, &quot;sensitivity&quot;: [{&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.005602095902100581, &quot;credible_interval_95&quot;: [-4.3606188858959574e-05, 0.011247797993060122], &quot;probability_positive_mean&quot;: 0.9741502344260479, &quot;prior_strength&quot;: 1}, {&quot;quarters&quot;: 31, &quot;mean_quarterly_excess&quot;: 0.004169001601563223, &quot;credible_interval_95&quot;: [-0.0007730294950609035, 0.00911103269818735], &quot;probability_positive_mean&quot;: 0.952179445833137, &quot;prior_strength&quot;: 12}], &quot;recent_12_quarters&quot;: {&quot;quarters&quot;: 12, &quot;mean_quarterly_excess&quot;: 0.007312653871085813, &quot;credible_interval_95&quot;: [-0.002892877973159876, 0.017518185715331504], &quot;probability_positive_mean&quot;: 0.9258618911414271, &quot;prior_strength&quot;: 4}, &quot;start&quot;: &quot;2019-03-31T00:00:00&quot;, &quot;end&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;minimum_peer_count&quot;: 5, &quot;diagnostics&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;positive_quarter_share&quot;: 0.5483870967741935, &quot;rolling_4q_mean&quot;: [-0.00011330547099624999, 0.017564545933518666, 0.006139134439688249, -0.0049575873452811225, -0.005153068231865579, 0.008164384514004447, 0.010503324568058414, 0.016892451746237103], &quot;positive_4q_block_share&quot;: 0.625, &quot;period_means&quot;: {&quot;all&quot;: 0.005782808673136084, &quot;first_half&quot;: 0.005003092423559075, &quot;second_half&quot;: 0.00651379265711453, &quot;recent_8q&quot;: 0.012072992349820719}, &quot;best_quarter&quot;: 0.04934700695735483, &quot;worst_quarter&quot;: -0.02376000504467557, &quot;worst_quarter_date&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;peer_count_range&quot;: [5, 293], &quot;interpretation&quot;: &quot;存在时间分段证据，但仍需任职区间、持仓和风险因子控制。&quot;}, &quot;robustness&quot;: {&quot;status&quot;: &quot;available&quot;, &quot;benchmarks&quot;: {&quot;median&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.005782808673136084, &quot;positive_share&quot;: 0.5483870967741935, &quot;bootstrap_ci_95&quot;: [0.00045209488779302464, 0.011435732388838557], &quot;bootstrap_positive_mean&quot;: 0.985}, &quot;mean&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.0050498340681142005, &quot;positive_share&quot;: 0.5161290322580645, &quot;bootstrap_ci_95&quot;: [0.0003767006269938542, 0.010088034943049393], &quot;bootstrap_positive_mean&quot;: 0.9815}, &quot;trimmed_mean&quot;: {&quot;quarters&quot;: 31, &quot;mean_excess&quot;: 0.005918992002753747, &quot;positive_share&quot;: 0.6129032258064516, &quot;bootstrap_ci_95&quot;: [0.0009159888718573177, 0.011338259025146102], &quot;bootstrap_positive_mean&quot;: 0.99}}, &quot;leave_one_quarter_out_range&quot;: [0.004330668730328792, 0.0067675691303964725], &quot;benchmark_agreement&quot;: true, &quot;interpretation&quot;: &quot;重采样区间未跨零；仍依赖样本和独立同分布假设，不代表经理因果能力。&quot;}}, &quot;neural&quot;: {&quot;as_of&quot;: &quot;2026-09-30T00:00:00&quot;, &quot;forecast_month_end&quot;: &quot;2026-10-31T00:00:00&quot;, &quot;predicted_annualized_vol_pct&quot;: 4.059127845724206, &quot;persistence_vol_pct&quot;: 4.178487764730222, &quot;status&quot;: &quot;experimental_not_validated&quot;}, &quot;bayesian_status&quot;: &quot;available&quot;, &quot;research_readiness&quot;: {&quot;grade&quot;: &quot;待逐项核验&quot;, &quot;ready_count&quot;: 3, &quot;total&quot;: 3, &quot;checks&quot;: [{&quot;key&quot;: &quot;history&quot;, &quot;label&quot;: &quot;历史净值跨度&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;2166 条观测，跨度 3268 天&quot;}, {&quot;key&quot;: &quot;peer&quot;, &quot;label&quot;: &quot;同类可比样本&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;31 个共同季度&quot;}, {&quot;key&quot;: &quot;provenance&quot;, &quot;label&quot;: &quot;净值来源可追溯&quot;, &quot;ready&quot;: true, &quot;detail&quot;: &quot;已记录来源链接与哈希&quot;}], &quot;next_best_evidence&quot;: [&quot;经理任职原始披露&quot;, &quot;跨期持仓完整性核验&quot;, &quot;风险调整与替代解释&quot;], &quot;verdict&quot;: &quot;统计模型描述相对表现；任职与完整持仓需独立证据。&quot;}}, &quot;test&quot;: {&quot;neural_mae&quot;: 3.2826429999789855, &quot;ridge_mae&quot;: 3.254344249134626, &quot;persistence_mae&quot;: 3.397541641447199}, &quot;neural_passed_baselines&quot;: false, &quot;limitations&quot;: [&quot;估计基金相对同类表现，不是经理个人能力；未对齐任职区间或风险因子。&quot;, &quot;贝叶斯采用季度收益差的独立正态假设；序列相关、厚尾可能使区间偏窄。先验中心0、季度尺度2%、强度4，提供1/12敏感性。&quot;, &quot;按当前目录和名称合并份额，存在存续偏差、历史类别变化与漏合并风险；同类中位数不是可投资基准。&quot;, &quot;神经网络为小型监督风险模型，未微调大语言模型；时间外结果不是未来业绩保证。&quot;, &quot;第三方收益指数复权尚未逐条对账；拒绝缺失窗口，不补造观测。&quot;]}</pre></li><li><b>E7 · 南方全天候2025年更新招募说明书.pdf · 第 28 页</b><pre>因证券市场波动、基金规模变动等基金管理人之外的因素致使基金投资不符合前款第
+（3）项、第（5）项规定的投资比例的，基金管理人应当在20个交易日内进行调整，但中
+国证监会规定的特殊情形除外。除上述第（2）项、第（3）项、第（5）项、第（13）项、
+第（14）项、第（19）项另有约定外，因证券市场波动、证券发行人合并或基金规模变动等
+基金管理人之外的因素致使基金投资比例不符合上述规定投资比例的，基金管理人应当在
+10个交易日内进行调整，但中国证监会规定的特殊情形除外。
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+基金管理人应当自基金合同生效之日起6个月内使基金的投资组合比例符合基金合同
+的有关约定。在上述期间内，本基金的投资范围、投资策略应当符合基金合同的约定。基金
+托管人对基金的投资的监督与检查自基金合同生效之日起开始。
+如果法律法规或监管部门对上述投资组合比例限制进行变更的，以变更后的规定为准。
+法律法规或监管部门取消上述限制，如适用于本基金，则本基金投资不再受相关限制。
+2、禁止行为
+为维护基金份额持有人的合法权益，基金财产不得用于下列投资或者活动：
+（1）承销证券；
+（2）违反规定向他人贷款或者提供担保；
+（3）从事承担无限责任的投资；
+（4）向其基金管理人、基金托管人出资；
+（5）从事内幕交易、操纵证券交易价格及其他不正当的证券交易活动；
+（6）持有具有复杂、衍生品性质的基金份额，包括分级基金、香港互认基金和中国证
+监会认定的其他基金份额；
+（7）法律、行政法规和中国证监会规定禁止的其他活动。
+运用基金财产买卖基金管理人、基金托管人及其控股股东、实际控制人或者与其有其他
+重大利害关系的公司发行的证券或承销期内承销的证券，或者从事其他重大关联交易的，应
+当遵循基金份额持有人利益优先的原则，防范利益冲突，符合国务院证券监督管理机构的规
+定，并履行信息披露义务。
+如法律、行政法规或监管部门取消上述限制，如适用于本基金，则本基金投资不再受相
+关限制。
+9.5业绩比较基准
+本基金业绩比较基准：沪深300指数收益率×15%＋上证国债指数收益率×85%。
+如果今后法律法规发生变化，或者有更权威的、更能为市场普遍接受的业绩比较基准推
+出，或者是市场上出现更加适合用于本基金的业绩基准的指数时，本基金可以在与基金托管
+人协商一致的情况下，并按照监管部门要求履行适当程序后变更业绩比较基准并及时公告，
+无需召开基金份额持有人大会。如果本基金业绩比较基准所参照的指数在未来不再发布时，
+基金管理人可以按相关监管部门要求履行相关手续后，依据维护基金份额持有人合法权益的
+原则，选取相似的或可替代的指数作为业绩比较基准的参照指数，而无需召开基金份额持有
+人大会，但需在实施日前按照《信息披露办法》的要求在指定媒介公告。
+9.6风险收益特征
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+本基金为基金中基金，“全天候”表明通过投资多种类别的资产，均衡配置风险，从而
+减少组合受某类资产波动的影响，实现风险的分散。本基金相对股票基金和一般的混合基金
+其预期风险较小，但高于债券基金和货币市场基金。</pre></li><li><b>E8 · 南方全天候2025年更新招募说明书.pdf · 第 72 页</b><pre>超过该上市公司可流通股票的15%；同一基金管理人管理的全部投资组合持有一家上市公司
+发行的可流通股票，不得超过该上市公司可流通股票的30%；
+13）本基金主动投资于流动性受限资产的市值合计不得超过该基金资产净值的15%；因
+证券市场波动、上市公司股票停牌、基金规模变动等基金管理人之外的因素致使基金不符合
+前款所规定比例限制的，基金管理人不得主动新增流动性受限资产的投资；
+14）本基金与私募类证券资管产品及中国证监会认定的其他主体为交易对手开展逆回购
+交易的，可接受质押品的资质要求应当与基金合同约定的投资范围保持一致；
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+15）本基金投资于同一原始权益人的各类资产支持证券的比例，不得超过基金资产净值
+的10％；
+16）本基金持有的全部资产支持证券，其市值不得超过基金资产净值的20％；
+17）本基金持有的同一(指同一信用级别)资产支持证券的比例，不得超过该资产支持证
+券规模的10％；
+18）本基金管理人管理的且由本基金托管人托管的全部基金投资于同一原始权益人的各
+类资产支持证券，不得超过其各类资产支持证券合计规模的10％；
+19）本基金应投资于信用级别评级为BBB以上(含BBB)的资产支持证券。基金持有资产
+支持证券期间，如果其信用等级下降、不再符合投资标准，应在评级报告发布之日起3个月
+内予以全部卖出；
+20）基金财产参与股票发行申购，本基金所申报的金额不超过本基金的总资产，本基金
+所申报的股票数量不超过拟发行股票公司本次发行股票的总量；
+21）本基金进入全国银行间同业市场进行债券回购的资金余额不得超过基金资产净值的
+40%；在全国银行间同业市场中的债券回购最长期限为1年，债券回购到期后不得展期；
+22）本基金持有的单只中小企业私募债券，其市值不得超过基金资产净值的10%；
+23）本基金总资产不得超过基金净资产的140%；
+24）本基金投资存托凭证的比例限制依照内地上市交易的股票执行；
+25）法律法规及中国证监会规定的和《基金合同》约定的其他投资限制。
+如果法律法规或监管部门对上述投资组合比例限制进行变更的，以变更后的规定为准。
+法律法规或监管部门取消上述限制，如适用于本基金，则本基金投资不再受相关限制。
+（3）法规允许的基金投资比例调整期限
+因证券市场波动、基金规模变动等基金管理人之外的因素致使基金投资不符合前款第3）
+项、第5）项规定的投资比例的，基金管理人应当在20个交易日内进行调整，但中国证监
+会规定的特殊情形除外。除上述第2）项、第3）项、第5）项、第13）项、第14）项、第
+19）项另有约定外，由于证券市场波动、证券发行人合并或基金规模变动等基金管理人之外
+的原因导致的投资组合不符合上述约定的比例，不在限制之内，但基金管理人应在10个交
+易日内进行调整，以达到规定的投资比例限制要求，但中国证监会规定的特殊情形除外。法
+律法规另有规定的从其规定。
+基金管理人应在出现可预见资产规模大幅变动的情况下，至少提前2个工作日正式向基
+金托管人发函说明基金可能变动规模和公司应对措施，便于托管人实施交易监督。
+除投资资产配置外，基金托管人对基金投资的监督和检查自《基金合同》生效之日起开
+始。基金管理人应当自基金合同生效之日起6个月内使基金的投资组合比例符合基金合同的
+有关约定。在上述期间内，本基金的投资范围、投资策略应当符合基金合同的约定。
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）</pre></li><li><b>E9 · 005215_2025Q2_南方基金原始季报.pdf · 第 4 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 3 页 共14 页
+阶段 净值增长率① 净值增长率标准差② 业绩比较基准收益率③ 业绩比较基准收益率标准差④ ①-③ ②-④
+过去三个月 0.35% 0.34% 1.27% 0.14% -0.92% 0.20%
+过去六个月 0.28% 0.29% 1.24% 0.14% -0.96% 0.15%
+过去一年 4.15% 0.32% 6.90% 0.19% -2.75% 0.13%
+过去三年 -0.93% 0.29% 11.41% 0.16% -12.34% 0.13%
+过去五年 16.18% 0.32% 20.10% 0.17% -3.92% 0.15%
+自基金合同
+生效起至今 33.12% 0.34% 35.76% 0.18% -2.64% 0.16%
+3.2.2 自基金合同生效以来基金累计净值增长率变动及其与同期业绩比较基准
+收益率变动的比较</pre></li><li><b>E10 · 南方全天候2025年更新招募说明书.pdf · 第 24 页</b><pre>会认可的交易场所或者通过其他方式进行份额转让的申请并由登记机构办理基金份额的过
+户登记。基金管理人拟受理基金份额转让业务的，将提前公告，基金份额持有人应根据基金
+管理人公告的业务规则办理基金份额转让业务。
+8.19实施侧袋机制期间本基金的申购与赎回
+本基金实施侧袋机制的，本基金的申购和赎回安排详见招募说明书“侧袋机制”部分的
+规定或相关公告。
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+8.20其他业务
+在相关法律法规允许的条件下，基金登记机构可依据其业务规则，受理基金份额质押等
+业务，并收取一定的手续费用。
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+§9基金的投资
+9.1投资目标
+本基金是基金中基金，通过大类资产配置，灵活投资于多种具有不同风险收益特征的基
+金，寻求基金资产的长期稳健增值。
+9.2投资范围
+本基金投资于依法发行或上市的基金、股票、债券等金融工具及法律法规或中国证监会
+允许基金投资的其他金融工具。具体包括：经中国证监会依法核准或注册的公开募集的基金
+份额（含QDII、公开募集基础设施证券投资基金（以下简称“公募REITs”））、股票（包
+含主板、中小板、创业板及其他经中国证监会核准上市的股票以及存托凭证（下同））、权
+证、债券（包括国内依法发行和上市交易的国债、央行票据、金融债券、企业债券、公司债
+券、中期票据、短期融资券、超短期融资券、次级债券、政府支持机构债、政府支持债券、
+地方政府债、可转换债券、中小企业私募债及其他经中国证监会允许投资的债券）、资产支
+持证券、债券回购、银行存款（包括协议存款、定期存款以及其他银行存款）、同业存单等
+固定收益类资产以及现金，以及法律法规或中国证监会允许基金投资的其他金融工具（但须
+符合中国证监会的相关规定）。
+本基金的投资组合比例为：80%以上基金资产投资于其他经中国证监会依法核准或注册
+的公开募集的基金份额（含QDII、公开募集基础设施证券投资基金），其中，股票基金投
+资占基金资产的比例为0-30%；基金保留的现金或到期日在一年以内的政府债券的比例合计
+不低于基金资产净值的5%。
+如法律法规或监管机构以后允许基金投资其他品种，基金管理人在履行适当程序后，可
+以将其纳入投资范围。
+9.3投资策略
+本基金力争通过合理判断市场走势，合理配置基金、股票、债券等投资工具的比例，通
+过定量和定性相结合的方法精选具有不同风险收益特征的基金，力争实现基金资产的稳定回
+报。
+1、资产配置策略
+本基金资产配置策略主要是以宏观经济分析为重点，基于经济结构调整过程中相关政策
+与法规的变化、证券市场环境、金融市场利率变化、经济运行周期、投资者情绪以及证券市
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+场不同类别资产的风险/收益状况等，判断宏观经济发展趋势、政策导向和证券市场的未来
+发展趋势，确定和构造合适的资产配置比例。</pre></li><li><b>E11 · 南方全天候2025年中期报告.pdf · 第 5 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年中期报告
+第 4 页 共51 页
+§2   基金简介 
+2.1 基金基本情况
+基金名称 南方全天候策略混合型基金中基金(FOF)
+基金简称 南方全天候策略混合（FOF）
+基金主代码 005215
+交易代码 005215
+基金运作方式 契约型开放式
+基金合同生效日 2017年10月19日
+基金管理人 南方基金管理股份有限公司
+基金托管人 中国工商银行股份有限公司
+报告期末基金份额总额 767,195,511.59份
+基金合同存续期 不定期
+下属分级基金的基金简称 南方全天候策略混合（FOF）A 南方全天候策略混合（FOF）C
+下属分级基金的交易代码 005215 005216
+报告期末下属分级基金的份
+额总额 653,847,448.84份 113,348,062.75份
+2.2 基金产品说明
+投资目标 本基金是基金中基金，通过大类资产配置，灵活投资于多种具有不同风险收益特征的基金，寻求基金资产的长期稳健增值。
+投资策略
+本基金力争通过合理判断市场走势，合理配置基金、股票、债券等投资
+工具的比例，通过定量和定性相结合的方法精选具有不同风险收益特征
+的基金，力争实现基金资产的稳定回报。
+业绩比较基准 沪深300指数收益率×15%＋上证国债指数收益率×85%
+风险收益特征
+本基金为基金中基金， “全天候”表明通过投资多种类别的资产，均衡配
+置风险，从而减少组合受某类资产波动的影响，实现风险的分散。本基
+金相对股票基金和一般的混合基金其预期风险较小，但高于债券基金和
+货币市场基金。
+2.3 基金管理人和基金托管人
+项目 基金管理人 基金托管人
+名称 南方基金管理股份有限公司 中国工商银行股份有限公司
+姓名 鲍文革 郭明
+联系电话 0755-82763888 （010）66105799信息披露负责人
+电子邮箱 manager@southernfund.com custody@icbc.com.cn
+客户服务电话 400-889-8899 95588</pre></li><li><b>E12 · 005215_2025Q2_南方基金原始季报.pdf · 第 2 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 1 页 共14 页
+§1 重要提示
+基金管理人的董事会及董事保证本报告所载资料不存在虚假记载、 误导性陈述或重大遗
+漏，并对其内容的真实性、准确性和完整性承担个别及连带责任。
+基金托管人中国工商银行股份有限公司根据本基金合同规定， 于2025年7月17日复核
+了本报告中的财务指标、净值表现和投资组合报告等内容，保证复核内容不存在虚假记载、
+误导性陈述或者重大遗漏。
+基金管理人承诺以诚实信用、勤勉尽责的原则管理和运用基金资产，但不保证基金一定
+盈利。
+基金的过往业绩并不代表其未来表现。投资有风险，投资者在作出投资决策前应仔细阅
+读本基金的招募说明书。
+本报告中财务资料未经审计。
+本报告期自2025年4月1日起至6月30日止。
+§2 基金产品概况
+基金简称 南方全天候策略混合（FOF）
+基金主代码 005215
+交易代码 005215
+基金运作方式 契约型开放式
+基金合同生效日 2017年10月19日
+报告期末基金份额总额 767,195,511.59份
+投资目标
+本基金是基金中基金，通过大类资产配置，灵活投资于多种
+具有不同风险收益特征的基金，寻求基金资产的长期稳健增
+值。
+投资策略
+本基金力争通过合理判断市场走势，合理配置基金、股票、
+债券等投资工具的比例，通过定量和定性相结合的方法精选
+具有不同风险收益特征的基金，力争实现基金资产的稳定回
+报。
+业绩比较基准 沪深300指数收益率×15%＋上证国债指数收益率×85%
+风险收益特征
+本基金为基金中基金， “全天候”表明通过投资多种类别的资
+产，均衡配置风险，从而减少组合受某类资产波动的影响，
+实现风险的分散。本基金相对股票基金和一般的混合基金其
+预期风险较小，但高于债券基金和货币市场基金。
+基金管理人 南方基金管理股份有限公司
+基金托管人 中国工商银行股份有限公司
+下属分级基金的基金简称 南方全天候策略混合（FOF）A 南方全天候策略混合（FOF）C
+下属分级基金的交易代码 005215 005216</pre></li><li><b>E13 · 南方全天候2025年更新招募说明书.pdf · 第 28 页</b><pre>因证券市场波动、基金规模变动等基金管理人之外的因素致使基金投资不符合前款第
+（3）项、第（5）项规定的投资比例的，基金管理人应当在20个交易日内进行调整，但中
+国证监会规定的特殊情形除外。除上述第（2）项、第（3）项、第（5）项、第（13）项、
+第（14）项、第（19）项另有约定外，因证券市场波动、证券发行人合并或基金规模变动等
+基金管理人之外的因素致使基金投资比例不符合上述规定投资比例的，基金管理人应当在
+10个交易日内进行调整，但中国证监会规定的特殊情形除外。
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+基金管理人应当自基金合同生效之日起6个月内使基金的投资组合比例符合基金合同
+的有关约定。在上述期间内，本基金的投资范围、投资策略应当符合基金合同的约定。基金
+托管人对基金的投资的监督与检查自基金合同生效之日起开始。
+如果法律法规或监管部门对上述投资组合比例限制进行变更的，以变更后的规定为准。
+法律法规或监管部门取消上述限制，如适用于本基金，则本基金投资不再受相关限制。
+2、禁止行为
+为维护基金份额持有人的合法权益，基金财产不得用于下列投资或者活动：
+（1）承销证券；
+（2）违反规定向他人贷款或者提供担保；
+（3）从事承担无限责任的投资；
+（4）向其基金管理人、基金托管人出资；
+（5）从事内幕交易、操纵证券交易价格及其他不正当的证券交易活动；
+（6）持有具有复杂、衍生品性质的基金份额，包括分级基金、香港互认基金和中国证
+监会认定的其他基金份额；
+（7）法律、行政法规和中国证监会规定禁止的其他活动。
+运用基金财产买卖基金管理人、基金托管人及其控股股东、实际控制人或者与其有其他
+重大利害关系的公司发行的证券或承销期内承销的证券，或者从事其他重大关联交易的，应
+当遵循基金份额持有人利益优先的原则，防范利益冲突，符合国务院证券监督管理机构的规
+定，并履行信息披露义务。
+如法律、行政法规或监管部门取消上述限制，如适用于本基金，则本基金投资不再受相
+关限制。
+9.5业绩比较基准
+本基金业绩比较基准：沪深300指数收益率×15%＋上证国债指数收益率×85%。
+如果今后法律法规发生变化，或者有更权威的、更能为市场普遍接受的业绩比较基准推
+出，或者是市场上出现更加适合用于本基金的业绩基准的指数时，本基金可以在与基金托管
+人协商一致的情况下，并按照监管部门要求履行适当程序后变更业绩比较基准并及时公告，
+无需召开基金份额持有人大会。如果本基金业绩比较基准所参照的指数在未来不再发布时，
+基金管理人可以按相关监管部门要求履行相关手续后，依据维护基金份额持有人合法权益的
+原则，选取相似的或可替代的指数作为业绩比较基准的参照指数，而无需召开基金份额持有
+人大会，但需在实施日前按照《信息披露办法》的要求在指定媒介公告。
+9.6风险收益特征
+南方全天候策略混合型基金中基金(FOF)招募说明书（更新）
+本基金为基金中基金，“全天候”表明通过投资多种类别的资产，均衡配置风险，从而
+减少组合受某类资产波动的影响，实现风险的分散。本基金相对股票基金和一般的混合基金
+其预期风险较小，但高于债券基金和货币市场基金。</pre></li><li><b>E14 · 005215_2025Q2_南方基金原始季报.pdf · 第 4 页</b><pre>南方全天候策略混合型基金中基金(FOF)2025年第2季度报告
+第 3 页 共14 页
+阶段 净值增长率① 净值增长率标准差② 业绩比较基准收益率③ 业绩比较基准收益率标准差④ ①-③ ②-④
+过去三个月 0.35% 0.34% 1.27% 0.14% -0.92% 0.20%
+过去六个月 0.28% 0.29% 1.24% 0.14% -0.96% 0.15%
+过去一年 4.15% 0.32% 6.90% 0.19% -2.75% 0.13%
+过去三年 -0.93% 0.29% 11.41% 0.16% -12.34% 0.13%
+过去五年 16.18% 0.32% 20.10% 0.17% -3.92% 0.15%
+自基金合同
+生效起至今 33.12% 0.34% 35.76% 0.18% -2.64% 0.16%
+3.2.2 自基金合同生效以来基金累计净值增长率变动及其与同期业绩比较基准
+收益率变动的比较</pre></li></ol></section></html>

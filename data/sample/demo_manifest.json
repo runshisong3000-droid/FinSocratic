@@ -1,0 +1,28 @@
+{
+  "synthetic": true,
+  "label": "FinSocratic 合成演示工作区",
+  "notice": "全部基金、管理人、报告、净值、持仓和事件均为课程演示编造数据，不对应真实投资产品。",
+  "funds_file": "funds.csv",
+  "nav_file": "nav_monthly.csv",
+  "holdings_latest_file": "holdings.csv",
+  "holdings_history_file": "holdings_history.csv",
+  "benchmark_file": "benchmark_monthly.csv",
+  "events_file": "manager_events.csv",
+  "manager_reports": {
+    "FOF-001": {
+      "current": "manager_reports/FOF-001_2025Q4.txt",
+      "prior": [
+        "manager_reports/FOF-001_2025Q2.txt",
+        "manager_reports/FOF-001_2024Q4.txt"
+      ]
+    },
+    "FOF-002": {
+      "current": "manager_reports/FOF-002_2025Q4.txt",
+      "prior": []
+    },
+    "FOF-003": {
+      "current": "manager_reports/FOF-003_2025Q4.txt",
+      "prior": []
+    }
+  }
+}

@@ -1,0 +1,195 @@
+export type NavPoint = { date: string; nav: number; source_file?: string };
+export type Holding = { asset: string; weight_pct: number; as_of: string; source_file?: string };
+export type FundMetrics = {
+  total_return?: number | null;
+  annual_return?: number | null;
+  volatility?: number | null;
+  max_drawdown?: number | null;
+  sharpe?: number | null;
+  sortino?: number | null;
+  calmar?: number | null;
+  skew?: number | null;
+  kurtosis?: number | null;
+  var_95?: number | null;
+  cvar_95?: number | null;
+  tail_ratio?: number | null;
+  omega_ratio?: number | null;
+  observations?: number;
+  months?: number;
+  frequency?: string;
+  start?: string;
+  end?: string;
+};
+export type AttributionMetrics = {
+  beta?: number | null;
+  alpha_annualized?: number | null;
+  correlation?: number | null;
+  r_squared?: number | null;
+  beta_pvalue?: number | null;
+  beta_stderr?: number | null;
+  tracking_error?: number | null;
+  information_ratio?: number | null;
+  active_return_annualized?: number | null;
+  up_capture_ratio?: number | null;
+  down_capture_ratio?: number | null;
+};
+export type ManagerEvent = { id?: string; date: string; title: string; description?: string; type?: string; source?: string };
+export type Fund = {
+  fund_id: string;
+  name: string;
+  manager: string;
+  strategy: string;
+  asset_class?: string;
+  region?: string;
+  inception?: string;
+  fee_pct?: number;
+  liquidity?: string;
+  description?: string;
+  metrics?: FundMetrics;
+  nav?: NavPoint[];
+  holdings?: Holding[];
+  holdings_history?: Holding[];
+  events?: ManagerEvent[];
+  reports?: DocumentSummary[];
+  analytics?: Record<string, any>;
+  is_sample?: boolean;
+  source_manifest?: { source_url: string; disclosure_url: string; retrieved_at: string; sha256: string; return_basis: string; cache_stale: boolean };
+};
+export type DocumentSummary = {
+  id: string;
+  name: string;
+  fund_id?: string;
+  period?: string;
+  added_at?: string;
+  chunks_count?: number;
+  size?: number;
+  chunks?: { location: string; text: string }[];
+};
+export type Evidence = {
+  id: string;
+  kind: string;
+  source: string;
+  location: string;
+  text: string;
+  input_evidence_ids?: string[];
+};
+export type Claim = {
+  id: string;
+  text: string;
+  topic: string;
+  status: 'supported_within_scope' | 'contradicted' | 'inconclusive' | 'unverifiable';
+  status_label: string;
+  source: string;
+  location: string;
+  source_evidence_id: string;
+  check_evidence_ids: string[];
+  explanation: string;
+  limitation: string;
+  follow_up: string;
+};
+export type FactorExposure = {
+  factor?: string;
+  label?: string;
+  coefficient: number;
+  t_statistic: number;
+  p_value: number;
+  significant?: boolean;
+};
+export type FactorAttribution = {
+  available?: boolean;
+  observations?: number;
+  metrics?: {
+    alpha_annualized?: number | null;
+    r_squared?: number | null;
+    adj_r_squared?: number | null;
+    f_statistic?: number | null;
+    residual_volatility_annualized?: number | null;
+  };
+  exposures?: FactorExposure[];
+  factor_names?: string[];
+  assumptions?: string[];
+};
+export type ReturnCalendar = {
+  yearly?: { year: number; return: number; months: number }[];
+  monthly?: Record<string, number | null>[];
+};
+export type AIDeepAnalysis = {
+  verdict?: string;
+  thesis?: string;
+  strengths?: string[];
+  red_flags?: string[];
+  critical_questions?: string[];
+  hypotheses?: string[];
+  evidence_boundary?: string;
+};
+export type AIRedTeam = {
+  attacks?: string[];
+  falsifiable_checks?: string[];
+  worst_case_reading?: string;
+  missing_evidence_that_matters?: string[];
+};
+export type AIStatus = {
+  available?: boolean;
+  provider?: string;
+  model?: string;
+  configured?: boolean;
+  note?: string;
+};
+export type AIRun = {
+  status?: AIStatus;
+  deep_analysis?: AIDeepAnalysis | null;
+  red_team?: AIRedTeam | null;
+};
+export type PlaybookItem = {
+  id: string;
+  title: string;
+  coverage: 'complete' | 'partial' | 'missing';
+  detail: string;
+  evidence_ids: string[];
+  next_request: string;
+};
+export type Run = {
+  id: string;
+  created_at?: string;
+  execution_mode?: string;
+  fund: { fund_id: string; name: string; manager: string; strategy: string };
+  metrics: FundMetrics;
+  allocation?: { available?: boolean; as_of?: string; weight_sum?: number; assets?: Record<string, number> };
+  benchmark_comparison?: { relative_return_pp?: number | null; matched_observations?: number; start?: string; end?: string; attribution?: AttributionMetrics | null; attribution_observations?: number; attribution_assumptions?: string[] };
+  factor_attribution?: FactorAttribution | null;
+  return_calendar?: ReturnCalendar | null;
+  ai?: AIRun | null;
+  data_quality?: { issues?: { severity: string; code: string; message: string }[]; frequency?: string; nav_observations?: number };
+  evidence: Evidence[];
+  claims: Claim[];
+  period_comparison?: { topic: string; current_text: string; prior_text: string; assessment: string; current_claim_id?: string; prior_claim_id?: string }[];
+  follow_up_questions?: { id: string; question: string; priority: string; related_claim_ids?: string[] }[];
+  manager_summary?: string;
+  insights?: {
+    review_priority?: string;
+    claim_coverage_pct?: number;
+    source_count?: number;
+    contradicted_claim_ids?: string[];
+    uncertain_claim_ids?: string[];
+    top_exposures?: { asset: string; weight_pct: number }[];
+    narrative_changes?: number;
+    evidence_gaps?: string[];
+    headline?: string;
+  };
+  workflow?: { id: string; name: string; detail: string; status: 'complete' | 'skipped' }[];
+  playbook?: PlaybookItem[];
+  is_demo?: boolean;
+};
+export type RunSummary = {
+  id: string;
+  fund_id: string;
+  fund_name?: string;
+  created_at?: string;
+  claim_count?: number;
+  contradicted_count?: number;
+  unverifiable_count?: number;
+  inconclusive_count?: number;
+};
+export type ResearchTask = { id: string; run_id: string; fund_id: string; question: string; priority: string; status: 'open'|'in_progress'|'resolved'; category?: string; related_claim_ids?: string[]; resolution_note?: string; created_at?: string; updated_at?: string };
+export type Workspace = { funds: Fund[]; documents: DocumentSummary[]; runs: RunSummary[]; latest_run?: Run | null; demo_mode?: boolean; tasks?: ResearchTask[]; correlations?: Record<string, any> };
+export type CopilotResponse = { answer: string; citations: {id: string; source: string; location: string; text: string}[]; steps: {tool: string; label: string; detail: string}[]; suggestions: string[] };

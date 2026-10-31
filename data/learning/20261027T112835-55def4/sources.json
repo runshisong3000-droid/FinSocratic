@@ -1,0 +1,5132 @@
+[
+  {
+    "fund_id": "CN-005156",
+    "name": "嘉实领航资产配置混合A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005156.js",
+      "disclosure_url": "https://fund.eastmoney.com/005156.html",
+      "retrieved_at": "2026-10-26T18:20:43.049705+00:00",
+      "sha256": "8f90960bc88170207fe7d44548d941a4178bc87d63d7009b5412bb6b2c838b85",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005215",
+    "name": "南方全天候策略(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005215.js",
+      "disclosure_url": "https://fund.eastmoney.com/005215.html",
+      "retrieved_at": "2026-10-27T00:15:46.196821+00:00",
+      "sha256": "d418a3de6ee4dc40172211b27ea0ef9fec133599f4b947a4dbf2264b6eadde21",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005217",
+    "name": "建信福泽安泰混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005217.js",
+      "disclosure_url": "https://fund.eastmoney.com/005217.html",
+      "retrieved_at": "2026-10-27T00:43:36.648584+00:00",
+      "sha256": "da933158c3200678c2517e55209a9f347b1fdf8b6d1792aca0de66de58d1a3bf",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005218",
+    "name": "华夏聚惠(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005218.js",
+      "disclosure_url": "https://fund.eastmoney.com/005218.html",
+      "retrieved_at": "2026-10-27T00:43:36.564164+00:00",
+      "sha256": "38f2a03b1777e3b9e76dce896cbaf4bb1c7377bfd38450cdc0fd4fa89ced0a24",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005220",
+    "name": "海富通聚优精选混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005220.js",
+      "disclosure_url": "https://fund.eastmoney.com/005220.html",
+      "retrieved_at": "2026-10-27T00:43:36.769365+00:00",
+      "sha256": "628c2dabcf67175a197a4da9056501554db7a3cf3f6d95c4fca8f944b495ecbc",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005221",
+    "name": "宏利全能混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005221.js",
+      "disclosure_url": "https://fund.eastmoney.com/005221.html",
+      "retrieved_at": "2026-10-27T00:43:40.000441+00:00",
+      "sha256": "5f5ba0b467566a0f2725009e7e483a97cb9603dd14c86a4bca059e058428b447",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005809",
+    "name": "前海开源裕源(FOF)",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005809.js",
+      "disclosure_url": "https://fund.eastmoney.com/005809.html",
+      "retrieved_at": "2026-10-27T00:43:39.868418+00:00",
+      "sha256": "be8384a0cecb156dead1385888a05922aa47117607d748c3ab28fec6c6c0fe39",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005925",
+    "name": "建信福泽裕泰混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005925.js",
+      "disclosure_url": "https://fund.eastmoney.com/005925.html",
+      "retrieved_at": "2026-10-27T00:43:39.776818+00:00",
+      "sha256": "e5f3c0000769cc0c63119932ef61e40cc8211272273d6465b1484c7afa131cb7",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005957",
+    "name": "华夏聚丰混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005957.js",
+      "disclosure_url": "https://fund.eastmoney.com/005957.html",
+      "retrieved_at": "2026-10-27T00:43:42.585111+00:00",
+      "sha256": "b00bed70daa5b43aa6619243e703c8198814754825e25d8f3124ec2ab8782223",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005976",
+    "name": "长信稳进资产配置(FOF)",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005976.js",
+      "disclosure_url": "https://fund.eastmoney.com/005976.html",
+      "retrieved_at": "2026-10-27T00:43:42.702833+00:00",
+      "sha256": "2a5ee6240cd403ea3157e635d80c173c8ade5567a6a8019b33a1b36d9e1fc3c9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-005979",
+    "name": "南方合顺多资产(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/005979.js",
+      "disclosure_url": "https://fund.eastmoney.com/005979.html",
+      "retrieved_at": "2026-10-27T00:43:42.670422+00:00",
+      "sha256": "982dfab03bda295c3aefc0bfe69167324d4fa648c0cd0d358f0b41fa2a1700d1",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006042",
+    "name": "摩根尚睿混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006042.js",
+      "disclosure_url": "https://fund.eastmoney.com/006042.html",
+      "retrieved_at": "2026-10-27T00:43:43.465164+00:00",
+      "sha256": "121d7d2e589f7ff612de6d435e4d0a494f2f18ce3625db3f474ab8e5147969cf",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006245",
+    "name": "嘉实养老2030混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006245.js",
+      "disclosure_url": "https://fund.eastmoney.com/006245.html",
+      "retrieved_at": "2026-10-27T00:43:43.595604+00:00",
+      "sha256": "2a1990f618ee4f5c5774ae6cfe63fa47b029d364dcb9ac47974044b17c0a1e4c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006289",
+    "name": "华夏养老2040三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006289.js",
+      "disclosure_url": "https://fund.eastmoney.com/006289.html",
+      "retrieved_at": "2026-10-27T00:43:43.564717+00:00",
+      "sha256": "be89bfeb85dcbb4244429eb41adf98e03ef9b3610a7da38ba7b4e29a71def3f3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006290",
+    "name": "南方养老2035三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006290.js",
+      "disclosure_url": "https://fund.eastmoney.com/006290.html",
+      "retrieved_at": "2026-10-27T00:43:44.347256+00:00",
+      "sha256": "2d42cc433ae451ec9f99e8fbeb40d3c952a97256f7802655f620cc4327b90262",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006292",
+    "name": "易方达汇诚养老2043三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006292.js",
+      "disclosure_url": "https://fund.eastmoney.com/006292.html",
+      "retrieved_at": "2026-10-27T00:43:44.402679+00:00",
+      "sha256": "1ee3250f492df1babf69bcd88f24335d6d3e0720106643db90d048289e287a6b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006294",
+    "name": "万家稳健养老三年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006294.js",
+      "disclosure_url": "https://fund.eastmoney.com/006294.html",
+      "retrieved_at": "2026-10-27T00:43:44.579578+00:00",
+      "sha256": "5dae6d437530406a179baca431cb6c6e06b00cfb85d30d87187b5b185a72ec73",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006295",
+    "name": "工银养老2035三年持有A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006295.js",
+      "disclosure_url": "https://fund.eastmoney.com/006295.html",
+      "retrieved_at": "2026-10-27T00:43:45.227216+00:00",
+      "sha256": "0e7f5a0a9471be396fc1f48aa11d187b691c59b2ec188a92cc8e46304ee2bd40",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006296",
+    "name": "鹏华养老2035三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006296.js",
+      "disclosure_url": "https://fund.eastmoney.com/006296.html",
+      "retrieved_at": "2026-10-27T00:43:45.245392+00:00",
+      "sha256": "2cdd0eb4058409a630f182181ec694a7ef070dddad2f104372dcb5c5c7f06746",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006297",
+    "name": "富国鑫旺稳健养老目标一年持有期混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006297.js",
+      "disclosure_url": "https://fund.eastmoney.com/006297.html",
+      "retrieved_at": "2026-10-27T00:43:45.426274+00:00",
+      "sha256": "8979e5ccece33f92988ce268c5979a02c2a372309e2fd1efc89ac1e492d8dc5f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006298",
+    "name": "广发稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006298.js",
+      "disclosure_url": "https://fund.eastmoney.com/006298.html",
+      "retrieved_at": "2026-10-27T00:43:46.170330+00:00",
+      "sha256": "a658c5842598816a1c0cdf4e96381313de1bf6b05f2d75b00db17a6aa37f004f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006303",
+    "name": "中银安康稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006303.js",
+      "disclosure_url": "https://fund.eastmoney.com/006303.html",
+      "retrieved_at": "2026-10-27T00:43:46.227372+00:00",
+      "sha256": "567a4365b5522bf7fca309833546bb81097b1385c72c0de7ee0123e3964a7b48",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006305",
+    "name": "银华尊和养老2035混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006305.js",
+      "disclosure_url": "https://fund.eastmoney.com/006305.html",
+      "retrieved_at": "2026-10-27T00:43:46.313214+00:00",
+      "sha256": "1409e16503a01fde7453537a1893bd0bd39e4509a71f6a94392e88e41ee27c17",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006306",
+    "name": "宏利泰和平衡养老目标三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006306.js",
+      "disclosure_url": "https://fund.eastmoney.com/006306.html",
+      "retrieved_at": "2026-10-27T00:43:49.441707+00:00",
+      "sha256": "62ace0f79f3e71b9a10459c76d9c5aad89bf7dea4530d7dd680e101aea2b1e36",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006307",
+    "name": "嘉实养老2040混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006307.js",
+      "disclosure_url": "https://fund.eastmoney.com/006307.html",
+      "retrieved_at": "2026-10-27T00:43:49.329922+00:00",
+      "sha256": "17e872af200e0722629e2fc13f3b53d5736d8b9a710b56c334cacbf6e27d091f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006321",
+    "name": "中欧预见养老2035(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006321.js",
+      "disclosure_url": "https://fund.eastmoney.com/006321.html",
+      "retrieved_at": "2026-10-27T00:43:49.351760+00:00",
+      "sha256": "33af9dcc8f164ca04e8ed76f56b930baaa51ac217275c7b505e035e50e60dbf3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006507",
+    "name": "前海开源裕泽(FOF)",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006507.js",
+      "disclosure_url": "https://fund.eastmoney.com/006507.html",
+      "retrieved_at": "2026-10-27T11:26:19.039129+00:00",
+      "sha256": "3181474125cd1f8b06b689c57867fddda924f9f1a145fe5ad7e166cafe7e73dc",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006575",
+    "name": "华安养老目标2030三年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006575.js",
+      "disclosure_url": "https://fund.eastmoney.com/006575.html",
+      "retrieved_at": "2026-10-27T11:26:21.534252+00:00",
+      "sha256": "2772a04958dd889ad43f5f2f2b9a48b6e4d4bf49e016c0896de443204a6a3267",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006580",
+    "name": "兴全安泰平衡养老三年持有(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006580.js",
+      "disclosure_url": "https://fund.eastmoney.com/006580.html",
+      "retrieved_at": "2026-10-27T11:26:22.162114+00:00",
+      "sha256": "610229cb407473f44e86fea2fa79f9e8ae69afae73790fe08704b63285f21b5b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006581",
+    "name": "建信优享稳健养老目标一年持有期混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006581.js",
+      "disclosure_url": "https://fund.eastmoney.com/006581.html",
+      "retrieved_at": "2026-10-27T11:26:22.229328+00:00",
+      "sha256": "b1b92ae174ce83e38f69f84cccc458eb3aee2543e4a10bed8cacde1b24ee880c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006620",
+    "name": "华夏养老2045(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006620.js",
+      "disclosure_url": "https://fund.eastmoney.com/006620.html",
+      "retrieved_at": "2026-10-27T11:26:24.586808+00:00",
+      "sha256": "fe9b589bf4a87e1d27d8277710f46d4a54da0bbc49494faea0e9d15ef0fd0c00",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006622",
+    "name": "华夏养老2035(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006622.js",
+      "disclosure_url": "https://fund.eastmoney.com/006622.html",
+      "retrieved_at": "2026-10-27T11:26:25.366010+00:00",
+      "sha256": "abe6d55a5b2e33945b9cf698adc11ed3f50f4a67ac9aa4fcd585306d6363c78f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006763",
+    "name": "汇添富养老2030三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006763.js",
+      "disclosure_url": "https://fund.eastmoney.com/006763.html",
+      "retrieved_at": "2026-10-27T11:26:28.576435+00:00",
+      "sha256": "09bc00b5ddd13ca6a553d485e22533fb422e081c45d4d3c85e8be404e716974d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006859",
+    "name": "易方达汇诚养老2033三年持有混合发起(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006859.js",
+      "disclosure_url": "https://fund.eastmoney.com/006859.html",
+      "retrieved_at": "2026-10-27T11:26:28.938112+00:00",
+      "sha256": "a924f83228122edb41d7dd984ca189385f63c662adaa14bd01eba5660215831d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006860",
+    "name": "易方达汇诚养老2038三年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006860.js",
+      "disclosure_url": "https://fund.eastmoney.com/006860.html",
+      "retrieved_at": "2026-10-27T11:26:30.594684+00:00",
+      "sha256": "f1d7fe8cc3a8f118b62dfe8d87e5042cbbf577f9444bddfd5fba4b2ac8ea1cf9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006861",
+    "name": "招商和悦稳健养老一年持有期混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006861.js",
+      "disclosure_url": "https://fund.eastmoney.com/006861.html",
+      "retrieved_at": "2026-10-27T11:26:31.665166+00:00",
+      "sha256": "121a3c0749e27e3203bba0c4b27169ca068b8d93e06bff2e84fe204faf891df8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006872",
+    "name": "长信颐天养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006872.js",
+      "disclosure_url": "https://fund.eastmoney.com/006872.html",
+      "retrieved_at": "2026-10-27T11:26:33.503456+00:00",
+      "sha256": "c20b75d75b6222d7771cb4a55852cdd8979806e4c5f4247c4bf98681c3c7361f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006876",
+    "name": "国投瑞银稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006876.js",
+      "disclosure_url": "https://fund.eastmoney.com/006876.html",
+      "retrieved_at": "2026-10-27T11:26:35.098554+00:00",
+      "sha256": "97fd051b9dc158c9b7d381b3b35fd8d3f4237723f273cf20c9a165ce47dcae17",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006880",
+    "name": "交银安享稳健养老一年(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006880.js",
+      "disclosure_url": "https://fund.eastmoney.com/006880.html",
+      "retrieved_at": "2026-10-27T11:26:36.412539+00:00",
+      "sha256": "8ce75477335859654da57e37063eb1c906257d4d6fac722407ba35925bd6adff",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006886",
+    "name": "工银养老2050五年持有A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006886.js",
+      "disclosure_url": "https://fund.eastmoney.com/006886.html",
+      "retrieved_at": "2026-10-27T04:38:23.428409+00:00",
+      "sha256": "64d7100a40ed4197aa36c5338a1857b66222de478d680051935cfcb92b5ac9a9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006891",
+    "name": "华夏养老2050五年持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006891.js",
+      "disclosure_url": "https://fund.eastmoney.com/006891.html",
+      "retrieved_at": "2026-10-27T04:38:23.921620+00:00",
+      "sha256": "1ececf77983711b50e2a47a7076d8b1f7a6ef0486706bb1e1b959770d82ef4f6",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006894",
+    "name": "兴业养老2035(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006894.js",
+      "disclosure_url": "https://fund.eastmoney.com/006894.html",
+      "retrieved_at": "2026-10-27T11:26:37.777639+00:00",
+      "sha256": "578959ac821a3a501d0d3b9fb0c3ab5d1a4bc3112939c0c416584b0814fe6db4",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-006991",
+    "name": "民生加银康宁稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/006991.js",
+      "disclosure_url": "https://fund.eastmoney.com/006991.html",
+      "retrieved_at": "2026-10-27T11:26:39.678417+00:00",
+      "sha256": "de7fede33756b18a5f9369e5e4262b023d6b9417f08985fbf2b2cddda3affea5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007059",
+    "name": "汇添富养老2040五年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007059.js",
+      "disclosure_url": "https://fund.eastmoney.com/007059.html",
+      "retrieved_at": "2026-10-27T11:26:40.920443+00:00",
+      "sha256": "5b15428ef8fdf0326f1d61e6447561150da6c80c4b12e0516217eb598c9ca584",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007060",
+    "name": "汇添富养老2050混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007060.js",
+      "disclosure_url": "https://fund.eastmoney.com/007060.html",
+      "retrieved_at": "2026-10-27T04:38:23.118429+00:00",
+      "sha256": "733da342f3b6b8365fdb14ef6370ed764f617799eafcb51228e3dc3960f29e65",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007070",
+    "name": "博时颐泽稳健养老(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007070.js",
+      "disclosure_url": "https://fund.eastmoney.com/007070.html",
+      "retrieved_at": "2026-10-27T11:26:41.392176+00:00",
+      "sha256": "5b3d53bc17d908a26bc7981567b5ca64f927cd01d9bc381d1db0ba70d26e239e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007090",
+    "name": "海富通稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007090.js",
+      "disclosure_url": "https://fund.eastmoney.com/007090.html",
+      "retrieved_at": "2026-10-27T11:26:43.868194+00:00",
+      "sha256": "6649d2183a8a1ff8b1b2e31875804af58699904a2ac99191241dbc23087c731e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007159",
+    "name": "南方富元稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007159.js",
+      "disclosure_url": "https://fund.eastmoney.com/007159.html",
+      "retrieved_at": "2026-10-27T11:26:44.443841+00:00",
+      "sha256": "d0b61a312ac3f7bdb49e94ecbd88daec1542a73ed2c60f2f9a1480a6b0210ef1",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007188",
+    "name": "嘉实养老2050混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007188.js",
+      "disclosure_url": "https://fund.eastmoney.com/007188.html",
+      "retrieved_at": "2026-10-27T11:26:46.686228+00:00",
+      "sha256": "5ec7216ace2017bf23eff0aadba731fde07835f11f9010faddc3244510ba7188",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007221",
+    "name": "摩根锦程均衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007221.js",
+      "disclosure_url": "https://fund.eastmoney.com/007221.html",
+      "retrieved_at": "2026-10-27T11:26:47.249995+00:00",
+      "sha256": "6215c58fcd8543e6a59590bf97911d180408b8b83c085e0f8177c316360915de",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007231",
+    "name": "国泰民安养老目标日期2040三年持有期混合FOFA",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007231.js",
+      "disclosure_url": "https://fund.eastmoney.com/007231.html",
+      "retrieved_at": "2026-10-27T11:26:48.504610+00:00",
+      "sha256": "bb2ab326c905586a291f9e7c3c96c34deabc7910f753fec5f51988b21b09eb10",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007232",
+    "name": "万家平衡养老目标三年(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007232.js",
+      "disclosure_url": "https://fund.eastmoney.com/007232.html",
+      "retrieved_at": "2026-10-27T11:26:49.524803+00:00",
+      "sha256": "5a5968f5fb42bb61e09480f9466003db6868cc3e65089bdba0471c541ed78c58",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007238",
+    "name": "平安养老目标日期2035三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007238.js",
+      "disclosure_url": "https://fund.eastmoney.com/007238.html",
+      "retrieved_at": "2026-10-27T11:26:50.170300+00:00",
+      "sha256": "5393ac053fd5001eca8164eb78b1d9a0edd7b256967cba1fdff9f0651cb02f76",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007241",
+    "name": "中欧预见养老2050五年持有(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007241.js",
+      "disclosure_url": "https://fund.eastmoney.com/007241.html",
+      "retrieved_at": "2026-10-27T04:38:25.485743+00:00",
+      "sha256": "fb5a493b8a47b7d23f6ece5b33e241117d455611658bc8228584b33e38fce169",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007247",
+    "name": "易方达汇智稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007247.js",
+      "disclosure_url": "https://fund.eastmoney.com/007247.html",
+      "retrieved_at": "2026-10-27T11:26:52.749707+00:00",
+      "sha256": "3f48ca203654ad06244356ef54e7d5a35152d08b9a6159d1e668d205675ee4c1",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007249",
+    "name": "广发均衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007249.js",
+      "disclosure_url": "https://fund.eastmoney.com/007249.html",
+      "retrieved_at": "2026-10-27T11:26:52.974837+00:00",
+      "sha256": "0a55a35e6ec641377ab16da48ce1f89ec1fa08a3f52c4416d368ae4abbe40230",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007250",
+    "name": "广发养老2050五年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007250.js",
+      "disclosure_url": "https://fund.eastmoney.com/007250.html",
+      "retrieved_at": "2026-10-27T11:26:53.843554+00:00",
+      "sha256": "4bf37edf380daa11f9a01da28d079c588282e619c1570696a3a6547f3c903eca",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007255",
+    "name": "华宝稳健养老(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007255.js",
+      "disclosure_url": "https://fund.eastmoney.com/007255.html",
+      "retrieved_at": "2026-10-27T11:26:55.142787+00:00",
+      "sha256": "1de22f9ffca7a8cb12c2fa83cbf427bcd487b9f1adbf53ec01078fe893bd6f13",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007271",
+    "name": "鹏华养老2045三年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007271.js",
+      "disclosure_url": "https://fund.eastmoney.com/007271.html",
+      "retrieved_at": "2026-10-27T11:26:55.481112+00:00",
+      "sha256": "7703bea2d3df6bdf814ef436023cd8c09ce4dab0f77856c01611c10d79aa81d5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007272",
+    "name": "景顺稳健养老目标三年混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007272.js",
+      "disclosure_url": "https://fund.eastmoney.com/007272.html",
+      "retrieved_at": "2026-10-27T11:26:56.285328+00:00",
+      "sha256": "992013857cb8ff5b948d01366f35e3eff81588167a76676be3a845cb50e88f2c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007297",
+    "name": "大成养老2040(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007297.js",
+      "disclosure_url": "https://fund.eastmoney.com/007297.html",
+      "retrieved_at": "2026-10-27T11:26:57.547369+00:00",
+      "sha256": "379df8bb2fa8484a1073ac35618f8060da38f471d8009198fe92de79d59bb708",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007310",
+    "name": "银华尊尚稳健养老混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007310.js",
+      "disclosure_url": "https://fund.eastmoney.com/007310.html",
+      "retrieved_at": "2026-10-27T11:26:58.830413+00:00",
+      "sha256": "5c8bdca371430c06df0e8ed3f2478c391f31c896c5bfbbd77caeb92bcb158923",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007401",
+    "name": "浦银颐和稳健养老一年混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007401.js",
+      "disclosure_url": "https://fund.eastmoney.com/007401.html",
+      "retrieved_at": "2026-10-27T11:27:00.049924+00:00",
+      "sha256": "9fbcaa7afa39d81bc4d2a03964904f7db562b4399e1166a697927b83a86acd29",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007407",
+    "name": "农银养老2035混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007407.js",
+      "disclosure_url": "https://fund.eastmoney.com/007407.html",
+      "retrieved_at": "2026-10-27T11:27:01.280334+00:00",
+      "sha256": "3b0f647157a6254e7863b70329e3d2fdce92c63acb22ba4de888574a40df7a8e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007638",
+    "name": "前海开源康颐平衡养老三年(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007638.js",
+      "disclosure_url": "https://fund.eastmoney.com/007638.html",
+      "retrieved_at": "2026-10-27T11:27:02.520139+00:00",
+      "sha256": "bba4bd48cacb8289a606c3eae33427f70b6be075ac5e68220e01b03a8c2f5700",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007643",
+    "name": "华安稳健养老目标一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007643.js",
+      "disclosure_url": "https://fund.eastmoney.com/007643.html",
+      "retrieved_at": "2026-10-27T11:27:02.912029+00:00",
+      "sha256": "2636819b97e2fce94889fb99c24bdedbf5574d0aa8c05d17349cfe6a5e85fe70",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007649",
+    "name": "博时颐泽平衡养老(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007649.js",
+      "disclosure_url": "https://fund.eastmoney.com/007649.html",
+      "retrieved_at": "2026-10-27T11:27:03.831663+00:00",
+      "sha256": "4b6764d602ff6e233b8d8691ae6255d209ab8d62ee9cb8f31d28f692e263d71c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007650",
+    "name": "工银养老2040三年持有A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007650.js",
+      "disclosure_url": "https://fund.eastmoney.com/007650.html",
+      "retrieved_at": "2026-10-27T11:27:05.188770+00:00",
+      "sha256": "7e0568ab5cc2cef234fd0c6b023ad2cc1f6de68d9ef14d096eb44e9541d0943b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007651",
+    "name": "工银养老2045三年持有A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007651.js",
+      "disclosure_url": "https://fund.eastmoney.com/007651.html",
+      "retrieved_at": "2026-10-27T11:27:05.830541+00:00",
+      "sha256": "82f01064e634627eb45273de192e4001fccbf824b4ad8499307908007f8a0c47",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007652",
+    "name": "华夏稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007652.js",
+      "disclosure_url": "https://fund.eastmoney.com/007652.html",
+      "retrieved_at": "2026-10-27T11:27:06.645437+00:00",
+      "sha256": "c5899fd59c67d84906a1125d5d171d092828eb4b24cc968a3a9c1d5a00281e5b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007660",
+    "name": "招商和悦均衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007660.js",
+      "disclosure_url": "https://fund.eastmoney.com/007660.html",
+      "retrieved_at": "2026-10-27T11:27:07.892593+00:00",
+      "sha256": "a6dc47cbf398cc3f2a3762837b66dde7cd38690cb0313e97d7ee8ccb9f35cd7d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007661",
+    "name": "南方养老目标2030三年持有混合发起(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007661.js",
+      "disclosure_url": "https://fund.eastmoney.com/007661.html",
+      "retrieved_at": "2026-10-27T11:27:08.682352+00:00",
+      "sha256": "e92a722a2ea5333475278793b3efc24dad0e46de7ffba59fd4528b0bd92ea002",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007662",
+    "name": "富国鑫旺均衡养老目标三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007662.js",
+      "disclosure_url": "https://fund.eastmoney.com/007662.html",
+      "retrieved_at": "2026-10-27T11:27:09.382314+00:00",
+      "sha256": "783015496c0e053c9769f927ec33b5489b0e1d3a1dbf0332dc28e38d9d47f228",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007668",
+    "name": "广发养老目标日期2035三年持有期混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007668.js",
+      "disclosure_url": "https://fund.eastmoney.com/007668.html",
+      "retrieved_at": "2026-10-27T11:27:10.902936+00:00",
+      "sha256": "9d6c8f520da57e261f0819ea4e814ef98963c688d68c35d718b88b105952d3ac",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007673",
+    "name": "中加安瑞稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007673.js",
+      "disclosure_url": "https://fund.eastmoney.com/007673.html",
+      "retrieved_at": "2026-10-27T11:27:11.543455+00:00",
+      "sha256": "811b400fa50a74c7c7f52ab1e89dd8a2ab353e87aa09dc9411f737f0b29f64ec",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007705",
+    "name": "长城恒康稳健养老一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007705.js",
+      "disclosure_url": "https://fund.eastmoney.com/007705.html",
+      "retrieved_at": "2026-10-27T11:27:12.161927+00:00",
+      "sha256": "5c2100096649e2ce79fc612a23590ecf53f3426af2eae198dca061063e735993",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007721",
+    "name": "天弘标普500发起(QDII-FOF)A",
+    "strategy": "QDII-FOF",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007721.js",
+      "disclosure_url": "https://fund.eastmoney.com/007721.html",
+      "retrieved_at": "2026-10-27T11:27:13.555649+00:00",
+      "sha256": "a784eb2cac965e571ab7cb6732a79e40868d2b5998c950389d335299ccf6a441",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007747",
+    "name": "海富通平衡养老目标三年持有期混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007747.js",
+      "disclosure_url": "https://fund.eastmoney.com/007747.html",
+      "retrieved_at": "2026-10-27T11:27:14.831245+00:00",
+      "sha256": "dce926a48c25f905dd649660eb30dea49e8b59f048f6bae835e7783e0c4ffa5e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007748",
+    "name": "天弘养老2035三年(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007748.js",
+      "disclosure_url": "https://fund.eastmoney.com/007748.html",
+      "retrieved_at": "2026-10-27T11:27:16.559767+00:00",
+      "sha256": "359e3a062304143f0b42b1c6b1106de6beb96768a17d75323655faf7f4f8b446",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007779",
+    "name": "银华尊和养老2030三年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007779.js",
+      "disclosure_url": "https://fund.eastmoney.com/007779.html",
+      "retrieved_at": "2026-10-27T11:27:16.953067+00:00",
+      "sha256": "380d68173cd079031532960aa422af85c28e1e5948759416967a5b5950ae450c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007780",
+    "name": "银华尊和养老2040三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007780.js",
+      "disclosure_url": "https://fund.eastmoney.com/007780.html",
+      "retrieved_at": "2026-10-27T11:27:17.464322+00:00",
+      "sha256": "d1d168a34243762b96b6a7a5d7a4d365dc4396e8a6c3ce17017889307140cfbb",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007896",
+    "name": "易方达优选多资产三个月持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007896.js",
+      "disclosure_url": "https://fund.eastmoney.com/007896.html",
+      "retrieved_at": "2026-10-27T11:27:19.225380+00:00",
+      "sha256": "f19f30fc31c0e335fc56818bd08bf137b5ba7f65e93bedc92a4209076d1a087e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007898",
+    "name": "富国智诚精选3个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007898.js",
+      "disclosure_url": "https://fund.eastmoney.com/007898.html",
+      "retrieved_at": "2026-10-27T04:38:26.455132+00:00",
+      "sha256": "db72c9878a6311b979dc2d65c85f3461fa7e55e51979c904790890ba9536dae2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-007904",
+    "name": "广发锐意进取3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/007904.js",
+      "disclosure_url": "https://fund.eastmoney.com/007904.html",
+      "retrieved_at": "2026-10-27T04:38:53.397050+00:00",
+      "sha256": "f4efaf4779ae8c16c0e40a7879db3c89cbc66d4d14dcd4e740c73982d6e63200",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008079",
+    "name": "诺德大类精选(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008079.js",
+      "disclosure_url": "https://fund.eastmoney.com/008079.html",
+      "retrieved_at": "2026-10-27T04:38:52.808690+00:00",
+      "sha256": "1c5b1a84bbd960212aa44fa31d4a39de3d96af8711f01f52c614fb9bb8317fcb",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008144",
+    "name": "工银智远配置三个月混合(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008144.js",
+      "disclosure_url": "https://fund.eastmoney.com/008144.html",
+      "retrieved_at": "2026-10-27T11:27:20.353505+00:00",
+      "sha256": "babc47fed3768935ff18205e47190a93befdc0d263e07930d8d09c8d6840fb82",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008145",
+    "name": "兴全优选进取三个月持有(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008145.js",
+      "disclosure_url": "https://fund.eastmoney.com/008145.html",
+      "retrieved_at": "2026-10-27T04:38:53.511572+00:00",
+      "sha256": "b054bbf5b4bbd97f961d23240700d57f6d09bc28d5b5f8406618d5bd40bfb517",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008158",
+    "name": "招商盛鑫优选3个月持有(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008158.js",
+      "disclosure_url": "https://fund.eastmoney.com/008158.html",
+      "retrieved_at": "2026-10-27T04:38:52.995792+00:00",
+      "sha256": "d18f29a646887c02ee9a14be98f843c0bee4c1c3bd4d15825cb4a5548badbe0f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008168",
+    "name": "汇添富聚焦成长三个月混合FOF",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008168.js",
+      "disclosure_url": "https://fund.eastmoney.com/008168.html",
+      "retrieved_at": "2026-10-27T11:27:22.202575+00:00",
+      "sha256": "53e54e724d823d4034d3326e3ddac28ca40845f6f1ae0f0f9a48dcf59c7c05d6",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008169",
+    "name": "汇添富核心优势三个月混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008169.js",
+      "disclosure_url": "https://fund.eastmoney.com/008169.html",
+      "retrieved_at": "2026-10-27T04:38:53.260607+00:00",
+      "sha256": "449bf8837dfd640ea947c496613250fc86e38a2e58e90cca76c51165772e0ba5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008553",
+    "name": "万家养老2035三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008553.js",
+      "disclosure_url": "https://fund.eastmoney.com/008553.html",
+      "retrieved_at": "2026-10-27T11:27:22.630516+00:00",
+      "sha256": "1461a13988ab339b0a400fa3b55f4563928fb422ae6801746af5a36a1b48a0e8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008609",
+    "name": "广发养老目标日期2040三年持有期混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008609.js",
+      "disclosure_url": "https://fund.eastmoney.com/008609.html",
+      "retrieved_at": "2026-10-27T11:27:23.114652+00:00",
+      "sha256": "60884101a3a06e01066a66374d51ce4b23a0e094bd3903f9ac43e24da7563336",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008617",
+    "name": "国寿安保稳健养老一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008617.js",
+      "disclosure_url": "https://fund.eastmoney.com/008617.html",
+      "retrieved_at": "2026-10-27T11:27:24.961652+00:00",
+      "sha256": "14255d84a5e40e8b3197db65cf4c8fe6cb94cc0f655540e47e52833ea1325640",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008621",
+    "name": "天弘永裕稳健养老一年(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008621.js",
+      "disclosure_url": "https://fund.eastmoney.com/008621.html",
+      "retrieved_at": "2026-10-27T11:27:25.504105+00:00",
+      "sha256": "29c964e388e4cc3a2c3ce67a76d7b48eb555ff453b0ed0b6a0e77b81b5510f3c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008625",
+    "name": "国富平衡养老三年混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008625.js",
+      "disclosure_url": "https://fund.eastmoney.com/008625.html",
+      "retrieved_at": "2026-10-27T11:27:25.746017+00:00",
+      "sha256": "9c2911eb3f09fd37fc17e8af044dd8cc9146f0963e7fe326616b1eeea1fe409d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008631",
+    "name": "国泰民泽平衡养老目标三年持有期混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008631.js",
+      "disclosure_url": "https://fund.eastmoney.com/008631.html",
+      "retrieved_at": "2026-10-27T11:27:27.633167+00:00",
+      "sha256": "32737eef5eefa6766344348d8714ac3ac360d4af1bda7d3fbc254b9cd1497885",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008639",
+    "name": "中欧预见稳瑞混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008639.js",
+      "disclosure_url": "https://fund.eastmoney.com/008639.html",
+      "retrieved_at": "2026-10-27T11:27:28.274731+00:00",
+      "sha256": "ab19c0bb458662f59a6cd458c7eca7436ac260a233ad59a8951adc1c9cdf93de",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008697",
+    "name": "交银养老2035三年(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008697.js",
+      "disclosure_url": "https://fund.eastmoney.com/008697.html",
+      "retrieved_at": "2026-10-27T11:27:28.529290+00:00",
+      "sha256": "5b5e9d149a31b9663b370e361d697871c988d2e0651e9df1c60299964ff81589",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008754",
+    "name": "泰康睿福3月持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008754.js",
+      "disclosure_url": "https://fund.eastmoney.com/008754.html",
+      "retrieved_at": "2026-10-27T11:27:30.455001+00:00",
+      "sha256": "7b3302b4584e80130c0f5ed34f7c7420f3c1f7bced2d45e4bc65d09e5e391565",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-008886",
+    "name": "民生卓越配置6个月混合(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/008886.js",
+      "disclosure_url": "https://fund.eastmoney.com/008886.html",
+      "retrieved_at": "2026-10-27T11:27:31.263914+00:00",
+      "sha256": "d1ac6c0fc45decac0e44945271c71a5f4ad5a99fb31762a527aa841d230aeebf",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009003",
+    "name": "中银安康平衡养老目标三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009003.js",
+      "disclosure_url": "https://fund.eastmoney.com/009003.html",
+      "retrieved_at": "2026-10-27T11:27:33.080408+00:00",
+      "sha256": "bf07f21147a74537136a1b43d1a94346de65ae07b28fbef5e0dd066073531b64",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009143",
+    "name": "摩根锦程稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009143.js",
+      "disclosure_url": "https://fund.eastmoney.com/009143.html",
+      "retrieved_at": "2026-10-27T11:27:34.056365+00:00",
+      "sha256": "0b66e9943feff356d38784cb17e6fa769f6bc034d9bf8cccc6cca8897870f22f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009151",
+    "name": "国寿策略优选3个月持有混合(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009151.js",
+      "disclosure_url": "https://fund.eastmoney.com/009151.html",
+      "retrieved_at": "2026-10-27T11:27:34.159576+00:00",
+      "sha256": "b6ca1f02ef6faad805b2e6422d50e00e95ef4c9bffff41232363fbc86556e06d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009159",
+    "name": "前海联合智选3个月持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009159.js",
+      "disclosure_url": "https://fund.eastmoney.com/009159.html",
+      "retrieved_at": "2026-10-27T11:27:35.665600+00:00",
+      "sha256": "20c0ac06a690a4b9196819ce42cc81a0839cad00dc3705de1beb54af608b3901",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009174",
+    "name": "东方红颐和稳健养老两年(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009174.js",
+      "disclosure_url": "https://fund.eastmoney.com/009174.html",
+      "retrieved_at": "2026-10-27T11:27:36.919254+00:00",
+      "sha256": "38e79e00c494938567b4da6697797b6b7a538ebf95a4bb778e19fb12a5e94709",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009183",
+    "name": "东方红颐和平衡养老三年(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009183.js",
+      "disclosure_url": "https://fund.eastmoney.com/009183.html",
+      "retrieved_at": "2026-10-27T11:27:38.227146+00:00",
+      "sha256": "372ee6306a4e1cbf7a93ca0b957632577da3e00cd015ce11b8d9bd2b1459a484",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009184",
+    "name": "东方红颐和积极养老五年(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009184.js",
+      "disclosure_url": "https://fund.eastmoney.com/009184.html",
+      "retrieved_at": "2026-10-27T04:38:55.956153+00:00",
+      "sha256": "25980d92d32fd80763d27d95464aa63046d6ea5ac4c198a0aa97e17e6091865c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009213",
+    "name": "易方达如意安泰(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009213.js",
+      "disclosure_url": "https://fund.eastmoney.com/009213.html",
+      "retrieved_at": "2026-10-27T11:27:39.984475+00:00",
+      "sha256": "aacb86dd179b13e6e57750384dbed10c64c44041a645498494013e1a803f54e9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009335",
+    "name": "工银稳健养老一年持有A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009335.js",
+      "disclosure_url": "https://fund.eastmoney.com/009335.html",
+      "retrieved_at": "2026-10-27T11:27:41.207765+00:00",
+      "sha256": "0de320d635784143aa0c70d12d4a58f7d9c32a6597d31f50ab9197b0af6ee077",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009340",
+    "name": "工银养老2055五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009340.js",
+      "disclosure_url": "https://fund.eastmoney.com/009340.html",
+      "retrieved_at": "2026-10-27T04:38:56.554410+00:00",
+      "sha256": "8ade4ddea2f2f93ea31b4f25248b247a930c874cedc3545431183ef6e39b5b2c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009355",
+    "name": "宏利泰和稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009355.js",
+      "disclosure_url": "https://fund.eastmoney.com/009355.html",
+      "retrieved_at": "2026-10-27T11:27:43.132497+00:00",
+      "sha256": "af2965c372609c3109e8be0f2a4efb647238e5d4da150e466f7ec06f7ecc1e4a",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009370",
+    "name": "浦银睿和优选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009370.js",
+      "disclosure_url": "https://fund.eastmoney.com/009370.html",
+      "retrieved_at": "2026-10-27T04:38:56.687551+00:00",
+      "sha256": "4fe25a4a49c75f88c291bcc35c7a8eb22c4c8fa2b0a1fc370f7b63ba54938212",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009372",
+    "name": "浦银嘉和稳健一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009372.js",
+      "disclosure_url": "https://fund.eastmoney.com/009372.html",
+      "retrieved_at": "2026-10-27T11:27:43.238189+00:00",
+      "sha256": "b4ca8766b777dac26e731e1a385a847a8ab7920ff82ca41508e7b15b432879fc",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009383",
+    "name": "人保稳进配置三个月持有(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009383.js",
+      "disclosure_url": "https://fund.eastmoney.com/009383.html",
+      "retrieved_at": "2026-10-27T11:27:45.899256+00:00",
+      "sha256": "de4328dbcef763dc669aafd1b53250300aae427d0f5705b0d1615bc6bfbabac5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009385",
+    "name": "天弘永裕平衡养老三年持有期混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009385.js",
+      "disclosure_url": "https://fund.eastmoney.com/009385.html",
+      "retrieved_at": "2026-10-27T11:27:45.996621+00:00",
+      "sha256": "33e3484833d0e4896b34a5fa08a1577a3b8c747bfc424c184604c6213ad9a522",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009460",
+    "name": "安信禧悦稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009460.js",
+      "disclosure_url": "https://fund.eastmoney.com/009460.html",
+      "retrieved_at": "2026-10-27T11:27:46.607362+00:00",
+      "sha256": "ad815175a2178f019f8b5f4ee3d8550528d20b59002e50e27ea5c003c94887f9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009572",
+    "name": "南方养老2040三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009572.js",
+      "disclosure_url": "https://fund.eastmoney.com/009572.html",
+      "retrieved_at": "2026-10-27T11:27:48.598280+00:00",
+      "sha256": "8e0cc3a8adf7b4ff117a44431a97039567986ca16274b475ae1897c71dad5135",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009573",
+    "name": "南方养老2045三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009573.js",
+      "disclosure_url": "https://fund.eastmoney.com/009573.html",
+      "retrieved_at": "2026-10-27T11:27:48.698209+00:00",
+      "sha256": "d6c932947abafafb67c46238f78c0e4fd5fd0da6e4d2a20fb88e8ac86cd97bb6",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-009884",
+    "name": "民生加银康宁平衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/009884.js",
+      "disclosure_url": "https://fund.eastmoney.com/009884.html",
+      "retrieved_at": "2026-10-27T11:27:49.195013+00:00",
+      "sha256": "78bba5c74fb3f91f40817f0121129a9080e251cf23d4b73daf2da8bcedeca34a",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010193",
+    "name": "农银养老2045五年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010193.js",
+      "disclosure_url": "https://fund.eastmoney.com/010193.html",
+      "retrieved_at": "2026-10-27T11:27:51.374249+00:00",
+      "sha256": "91f0179823d7230f66debd8f9d7218bcf881fe828f7ef168bcff34fc5dfee027",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010217",
+    "name": "中银添禧丰禄稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010217.js",
+      "disclosure_url": "https://fund.eastmoney.com/010217.html",
+      "retrieved_at": "2026-10-27T11:27:51.508911+00:00",
+      "sha256": "f3a83e99e66a106efff2a907ef59c774d1ecef97c6ed5fc7a84e147dcce523bd",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010266",
+    "name": "兴全安泰稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010266.js",
+      "disclosure_url": "https://fund.eastmoney.com/010266.html",
+      "retrieved_at": "2026-10-27T11:27:51.883945+00:00",
+      "sha256": "905aa894cd02af001677be8af48804aef80011d082ca9aaee9ca9555807e493d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010267",
+    "name": "兴全安泰积极养老五年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010267.js",
+      "disclosure_url": "https://fund.eastmoney.com/010267.html",
+      "retrieved_at": "2026-10-27T04:38:56.488980+00:00",
+      "sha256": "cb23feb354ffe0327fca0780b2e47af2bfa5e40355e17250739d8949a87c8138",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010277",
+    "name": "嘉实民安添岁稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010277.js",
+      "disclosure_url": "https://fund.eastmoney.com/010277.html",
+      "retrieved_at": "2026-10-27T11:27:54.099656+00:00",
+      "sha256": "39b7ca5b4f25b84c443489a20969038fa066664fe9b22374daca65afc3291dbd",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010281",
+    "name": "华夏保守养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010281.js",
+      "disclosure_url": "https://fund.eastmoney.com/010281.html",
+      "retrieved_at": "2026-10-27T11:27:54.170129+00:00",
+      "sha256": "ec0a50d657d7aab2ccd937d5a6e0934327a76652ede2b9d4093841c74f988f3c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010320",
+    "name": "华安养老目标2040三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010320.js",
+      "disclosure_url": "https://fund.eastmoney.com/010320.html",
+      "retrieved_at": "2026-10-27T11:27:54.440067+00:00",
+      "sha256": "4edc7d96d5d64389be7d015f86ebe8eaf56ca1ecc6d0e967e0d0b55a8f06569c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010323",
+    "name": "华安平衡养老目标三年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010323.js",
+      "disclosure_url": "https://fund.eastmoney.com/010323.html",
+      "retrieved_at": "2026-10-27T11:27:56.951121+00:00",
+      "sha256": "cbf20a0fb9d26747d625ef58644abe7afe7b1636f7ba145ec6aed07dfd25734f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010643",
+    "name": "平安兴诚混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010643.js",
+      "disclosure_url": "https://fund.eastmoney.com/010643.html",
+      "retrieved_at": "2026-10-27T11:27:57.015285+00:00",
+      "sha256": "b422ab3323c7cd1c5e84466596d79e31db37d1478ef05e5ff7b4e8909100b404",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010735",
+    "name": "申万稳健养老一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010735.js",
+      "disclosure_url": "https://fund.eastmoney.com/010735.html",
+      "retrieved_at": "2026-10-27T11:27:57.121361+00:00",
+      "sha256": "7a4f4aef075ae151c0f58ce72a4fa54fc951ff5a9ddcacc27fa0b955103e5df4",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010866",
+    "name": "嘉实福康稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010866.js",
+      "disclosure_url": "https://fund.eastmoney.com/010866.html",
+      "retrieved_at": "2026-10-27T11:28:00.084645+00:00",
+      "sha256": "b8bc61af8bc1c50b9a0fba39903a784fa68a0416265a04a2ad3d6377386d42f8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-010910",
+    "name": "交银安悦平衡养老三年持有期混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/010910.js",
+      "disclosure_url": "https://fund.eastmoney.com/010910.html",
+      "retrieved_at": "2026-10-27T11:28:00.043176+00:00",
+      "sha256": "f0a62fe3fa6c7e1837943ab98faee6b40dda7e31f3132762ae82c95702dbe145",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011233",
+    "name": "泰康福泰平衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011233.js",
+      "disclosure_url": "https://fund.eastmoney.com/011233.html",
+      "retrieved_at": "2026-10-27T11:27:59.982357+00:00",
+      "sha256": "796429d46c293d082e9adfd8f0e217f77c5d9e5f9dc9d2624bd8c0911ccf58ef",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011557",
+    "name": "平安稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011557.js",
+      "disclosure_url": "https://fund.eastmoney.com/011557.html",
+      "retrieved_at": "2026-10-27T11:28:03.035830+00:00",
+      "sha256": "95f49e06620a8f4ab2bffc5469a3adba299aea285a4551f348e3950c0c332765",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011580",
+    "name": "民生加银稳健配置6个月混合(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011580.js",
+      "disclosure_url": "https://fund.eastmoney.com/011580.html",
+      "retrieved_at": "2026-10-27T11:28:02.968240+00:00",
+      "sha256": "c6ae69e2e882cb2a776ceccf195d21120db0304609f8f0c8c9e67f65881ae9cd",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011587",
+    "name": "东方红欣和平衡两年混合(FOF)",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011587.js",
+      "disclosure_url": "https://fund.eastmoney.com/011587.html",
+      "retrieved_at": "2026-10-27T11:28:02.924867+00:00",
+      "sha256": "c4d3a722b638348a049122093a5cd4e9208d2e060444bc0eaef934fe83815d76",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011591",
+    "name": "民生加银稳健配置9个月持有混合(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011591.js",
+      "disclosure_url": "https://fund.eastmoney.com/011591.html",
+      "retrieved_at": "2026-10-27T11:28:05.923799+00:00",
+      "sha256": "4c049893ceb95c65ccbc420f0dd96ff154f7757de9bc2e698282fcb3e43f5ea2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011593",
+    "name": "农银汇理安瑞一年持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011593.js",
+      "disclosure_url": "https://fund.eastmoney.com/011593.html",
+      "retrieved_at": "2026-10-27T04:38:58.776665+00:00",
+      "sha256": "9c23fe995d7b8b5e722227ef6d30859cc397b6b8c07c52f39f1d1d168d028ac5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011600",
+    "name": "银华华智三个月持有(FOF)",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011600.js",
+      "disclosure_url": "https://fund.eastmoney.com/011600.html",
+      "retrieved_at": "2026-10-27T11:28:06.047965+00:00",
+      "sha256": "3c3e0e1dcd8b6ce2b4777ee5c7410deaffbc5fa06cad9709e0ac35e3028d84af",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011605",
+    "name": "交银招享一年持有期混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011605.js",
+      "disclosure_url": "https://fund.eastmoney.com/011605.html",
+      "retrieved_at": "2026-10-27T11:28:08.768125+00:00",
+      "sha256": "5968135e1c7d197a86de446c1d7204f96b74374f6dc0b1925dd92852a95f3cd8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011696",
+    "name": "南方浩睿进取京选3个月混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011696.js",
+      "disclosure_url": "https://fund.eastmoney.com/011696.html",
+      "retrieved_at": "2026-10-27T04:38:59.546772+00:00",
+      "sha256": "68f39af68b024256f8449ede26e37bd6f995f5d04f30b9d5bf6c5771786d2730",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011745",
+    "name": "华夏养老2055五年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011745.js",
+      "disclosure_url": "https://fund.eastmoney.com/011745.html",
+      "retrieved_at": "2026-10-27T04:38:59.487231+00:00",
+      "sha256": "80fdddec94c82f64d83e59d089510965ba06a87fc0ffa552cfdebd8e20537f5c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-011752",
+    "name": "广发核心优选六个月持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/011752.js",
+      "disclosure_url": "https://fund.eastmoney.com/011752.html",
+      "retrieved_at": "2026-10-27T11:28:09.247211+00:00",
+      "sha256": "110405debf29e90348e961a41e4eafa84f5368569b461e678b03b46017e6f87d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012037",
+    "name": "招商和惠养老目标2040三年持有期混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012037.js",
+      "disclosure_url": "https://fund.eastmoney.com/012037.html",
+      "retrieved_at": "2026-10-27T11:28:11.587295+00:00",
+      "sha256": "e4c436ae98cbf579cf98b7bce5c709217be2b964a66c1f6cd06a9ceb42c9f8d0",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012038",
+    "name": "银华尊颐稳健养老目标一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012038.js",
+      "disclosure_url": "https://fund.eastmoney.com/012038.html",
+      "retrieved_at": "2026-10-27T11:28:11.848109+00:00",
+      "sha256": "40ccaebab1c54fe05cf539c2ee1044314c5277604335eb1e89c65e047e9a64f7",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012056",
+    "name": "华商嘉悦平衡养老目标三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012056.js",
+      "disclosure_url": "https://fund.eastmoney.com/012056.html",
+      "retrieved_at": "2026-10-27T11:28:14.208600+00:00",
+      "sha256": "6fb1ac85b0f7c9120d9a7d1ac4329414a0adfa1eb11f0c061d37a1e4be216524",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012095",
+    "name": "长信颐和平衡养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012095.js",
+      "disclosure_url": "https://fund.eastmoney.com/012095.html",
+      "retrieved_at": "2026-10-27T11:28:17.609650+00:00",
+      "sha256": "14a00d8689f1452dac5f4ac5bfd161802ade6ef15870b8f97802a559d5761cad",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012106",
+    "name": "广发安泰稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012106.js",
+      "disclosure_url": "https://fund.eastmoney.com/012106.html",
+      "retrieved_at": "2026-10-27T11:28:14.620025+00:00",
+      "sha256": "aaf9c485e2af2e746f4b5d26ab97a92e5a389dceaa18b7137044159b54275d5c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012167",
+    "name": "浦银颐享稳健养老一年混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012167.js",
+      "disclosure_url": "https://fund.eastmoney.com/012167.html",
+      "retrieved_at": "2026-10-27T11:28:16.998479+00:00",
+      "sha256": "1525b5da95a670873c23dd5769d63f544be4ffce8b76d6b81fdf6f7d28bc8ec3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012190",
+    "name": "汇添富添福盈和稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012190.js",
+      "disclosure_url": "https://fund.eastmoney.com/012190.html",
+      "retrieved_at": "2026-10-27T11:28:17.499352+00:00",
+      "sha256": "7e28583ad8cc120289c88049cb812322db2758e269ea454025b0084eab745dec",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012282",
+    "name": "中欧睿智精选一年混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012282.js",
+      "disclosure_url": "https://fund.eastmoney.com/012282.html",
+      "retrieved_at": "2026-10-27T04:38:59.630844+00:00",
+      "sha256": "3e9fbea301132ec59db040a89cb893d10f7e03c787c028b9f2a6c438bce83c79",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012283",
+    "name": "建信普泽养老目标日期2040三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012283.js",
+      "disclosure_url": "https://fund.eastmoney.com/012283.html",
+      "retrieved_at": "2026-10-27T11:28:19.756248+00:00",
+      "sha256": "6173746ebd8f5a86ecb75cb3a086bb35edb394cfbe334f9b63e8ceab8874b97c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012306",
+    "name": "浦银养老目标2050五年持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012306.js",
+      "disclosure_url": "https://fund.eastmoney.com/012306.html",
+      "retrieved_at": "2026-10-27T04:38:59.427999+00:00",
+      "sha256": "ced9b49f14b33b971c056023895c3f71f416178b85242124f0793766403cbe61",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012311",
+    "name": "民生加银康泰养老2040三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012311.js",
+      "disclosure_url": "https://fund.eastmoney.com/012311.html",
+      "retrieved_at": "2026-10-27T11:28:20.562386+00:00",
+      "sha256": "d0ad9a709b4592b9fe452c707b9089cbf19e240759dd354c0af92214494ec3d2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012386",
+    "name": "银河颐年稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012386.js",
+      "disclosure_url": "https://fund.eastmoney.com/012386.html",
+      "retrieved_at": "2026-10-27T11:28:20.367493+00:00",
+      "sha256": "2cbf00cfe6ec42ffdd38e513c0128af5b6ea3ff846b6f09df2a64bcc568295d5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012450",
+    "name": "长信颐年养老三年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012450.js",
+      "disclosure_url": "https://fund.eastmoney.com/012450.html",
+      "retrieved_at": "2026-10-27T11:28:21.240159+00:00",
+      "sha256": "6de986a90f31ff792e9f21ac00a810f14a659ba4f9970d25773efe5189cc4e99",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012458",
+    "name": "泰康福安养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012458.js",
+      "disclosure_url": "https://fund.eastmoney.com/012458.html",
+      "retrieved_at": "2026-10-27T11:28:21.639781+00:00",
+      "sha256": "a07f7270e2264d40dddf39cd37a844496752dcd6ead1bd82d503fc69a960bfe9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012505",
+    "name": "华安民享稳健养老目标一年持有混合发起(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012505.js",
+      "disclosure_url": "https://fund.eastmoney.com/012505.html",
+      "retrieved_at": "2026-10-27T11:28:21.682556+00:00",
+      "sha256": "0334dfad070167b85b6e5712e80f293efb8f01ce79c6cbd984020bad97350f6e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012508",
+    "name": "嘉实安康稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012508.js",
+      "disclosure_url": "https://fund.eastmoney.com/012508.html",
+      "retrieved_at": "2026-10-27T11:28:22.082710+00:00",
+      "sha256": "7232aa86476f73ed70bd2a67344977efd7511af048b087fff4d78d19f93ad82e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012509",
+    "name": "兴全安悦稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012509.js",
+      "disclosure_url": "https://fund.eastmoney.com/012509.html",
+      "retrieved_at": "2026-10-27T11:28:22.465900+00:00",
+      "sha256": "db09c237d34d81f69a1f53ba159611900cbbc5759de3734cc41cff12e20b7bde",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012513",
+    "name": "泰康福泽积极养老五年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012513.js",
+      "disclosure_url": "https://fund.eastmoney.com/012513.html",
+      "retrieved_at": "2026-10-27T04:39:01.256329+00:00",
+      "sha256": "fd1f8104cb2b8e02770460604947496fed6f0c0c64cacea65910e658a9858b4f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012515",
+    "name": "南方富瑞稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012515.js",
+      "disclosure_url": "https://fund.eastmoney.com/012515.html",
+      "retrieved_at": "2026-10-27T11:28:22.528259+00:00",
+      "sha256": "46779951718f4dd3c02d0b460c777b90fe81d46775d7cb09af80d8e70121d057",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012638",
+    "name": "富国智优精选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012638.js",
+      "disclosure_url": "https://fund.eastmoney.com/012638.html",
+      "retrieved_at": "2026-10-27T04:39:03.400526+00:00",
+      "sha256": "3824ca18c8a67c297a322215816b4289f27cb9d35ebb75d363b5bba63224329b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012652",
+    "name": "易方达优势领航六个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012652.js",
+      "disclosure_url": "https://fund.eastmoney.com/012652.html",
+      "retrieved_at": "2026-10-27T04:39:03.029548+00:00",
+      "sha256": "0877e4caf21454810f2e9add28e7764576432a307189e4fbf46434b212048842",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012654",
+    "name": "兴全优选平衡三个月持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012654.js",
+      "disclosure_url": "https://fund.eastmoney.com/012654.html",
+      "retrieved_at": "2026-10-27T11:28:22.903300+00:00",
+      "sha256": "daa4e4d3add43166cb08cd795d05e6ba1e3c609f65221bbc3c67bde8bb9895c8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012656",
+    "name": "建信龙祥稳进6个月持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012656.js",
+      "disclosure_url": "https://fund.eastmoney.com/012656.html",
+      "retrieved_at": "2026-10-27T11:28:23.380743+00:00",
+      "sha256": "ed89b61477d61f5378866fc255ea877fe1e9740d337fcfa73cece44f91748b15",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012743",
+    "name": "汇添富添福睿选稳健养老一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012743.js",
+      "disclosure_url": "https://fund.eastmoney.com/012743.html",
+      "retrieved_at": "2026-10-27T11:28:23.842638+00:00",
+      "sha256": "793a22786fa66ea75ceed1aa550577f08cea5dbd84bf116152ca76f16d0ca367",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012776",
+    "name": "华夏聚鑫六个月持有(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012776.js",
+      "disclosure_url": "https://fund.eastmoney.com/012776.html",
+      "retrieved_at": "2026-10-27T11:28:24.785809+00:00",
+      "sha256": "9ae207bbbb8b13ae9d716b60a1f77ba4fcf8d6d038f0c4c30cb7edfbe6d1fba2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012783",
+    "name": "鹏华长治稳健养老一年持有期混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012783.js",
+      "disclosure_url": "https://fund.eastmoney.com/012783.html",
+      "retrieved_at": "2026-10-27T11:28:25.905814+00:00",
+      "sha256": "a59e9b4b80d98b1c98d9baf5691c937098495826a9d4bc1ff3014acbeb69809d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012787",
+    "name": "浦银泰和配置6个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012787.js",
+      "disclosure_url": "https://fund.eastmoney.com/012787.html",
+      "retrieved_at": "2026-10-27T04:39:02.953789+00:00",
+      "sha256": "23f34d9d1bf50647bb8739290b98ca79b63d9ca1a1ba7b291d3c78c086aa7521",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012791",
+    "name": "汇添富聚焦经典一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012791.js",
+      "disclosure_url": "https://fund.eastmoney.com/012791.html",
+      "retrieved_at": "2026-10-27T04:39:05.550575+00:00",
+      "sha256": "b306e11edebb7bcb7fd9e85df9b6eb1fed6191afec8784a748d8f0c2bdaffbe8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012896",
+    "name": "华安慧萃组合精选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012896.js",
+      "disclosure_url": "https://fund.eastmoney.com/012896.html",
+      "retrieved_at": "2026-10-27T04:39:05.959574+00:00",
+      "sha256": "9b09fb7a36c58edbfa532449ec0416b56fa7518d573911429c91da56dabb9bec",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012909",
+    "name": "平安盈盛稳健配置三个月持有债券(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012909.js",
+      "disclosure_url": "https://fund.eastmoney.com/012909.html",
+      "retrieved_at": "2026-10-27T11:28:27.773753+00:00",
+      "sha256": "0eb33c80ede4958d794dc64f9ec9abd6b91a4875578984a7466ffeea2c575253",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012936",
+    "name": "民生加银积极配置6个月持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012936.js",
+      "disclosure_url": "https://fund.eastmoney.com/012936.html",
+      "retrieved_at": "2026-10-27T04:39:06.360897+00:00",
+      "sha256": "ad21ded66a20cdea4d12cd678ff5119fb94cece7604d4a310ee5adf236247465",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-012959",
+    "name": "平安盈悦稳进回报1年持有混合(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/012959.js",
+      "disclosure_url": "https://fund.eastmoney.com/012959.html",
+      "retrieved_at": "2026-10-27T11:28:28.526627+00:00",
+      "sha256": "f36f511dfdbb0664e3dabaf578a1309f2a68fa44e885384cfc61d17aa653f362",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013059",
+    "name": "工银平衡养老三年持有混合发起(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013059.js",
+      "disclosure_url": "https://fund.eastmoney.com/013059.html",
+      "retrieved_at": "2026-10-27T11:28:30.627474+00:00",
+      "sha256": "78c461ca8205603ec26b8b57564c65080d739f54d7a68ce2cdca90d72d929207",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013060",
+    "name": "工银养老目标2060五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013060.js",
+      "disclosure_url": "https://fund.eastmoney.com/013060.html",
+      "retrieved_at": "2026-10-27T04:39:06.305440+00:00",
+      "sha256": "be4d5a9888a4079d5c761fa82436c7728a8f64e308bc0e9d811988316dbcc651",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013088",
+    "name": "华商嘉逸养老2040三年持有混合发起式(FOF)A",
+    "strategy": "FOF-均衡型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013088.js",
+      "disclosure_url": "https://fund.eastmoney.com/013088.html",
+      "retrieved_at": "2026-10-27T11:28:31.422813+00:00",
+      "sha256": "d7cf563215095c6c096ecffc3d37cd16c9bed1aca616b285e3b2ecbd60148007",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013139",
+    "name": "上银恒泰稳健养老一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013139.js",
+      "disclosure_url": "https://fund.eastmoney.com/013139.html",
+      "retrieved_at": "2026-10-27T11:28:33.597978+00:00",
+      "sha256": "1b4781775ebc7943e80123f0f056d030f07f19d892a629d4bb8964bcd631b954",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013155",
+    "name": "添富添福汇盈稳健养老目标一年持有混合(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013155.js",
+      "disclosure_url": "https://fund.eastmoney.com/013155.html",
+      "retrieved_at": "2026-10-27T11:28:33.656461+00:00",
+      "sha256": "ff7ad7565a74918da9d2fc999dd153f5ccb1badef5f879740d5def73ca7eec1e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013158",
+    "name": "华夏安康稳健养老目标一年持有混合发起式(FOF)A",
+    "strategy": "FOF-稳健型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013158.js",
+      "disclosure_url": "https://fund.eastmoney.com/013158.html",
+      "retrieved_at": "2026-10-27T11:28:34.325472+00:00",
+      "sha256": "f22794c37b2f1ca6d3107737f3ccbb9ce6022700870771ad039d880bb2916ca8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013279",
+    "name": "国泰优选领航一年持有(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013279.js",
+      "disclosure_url": "https://fund.eastmoney.com/013279.html",
+      "retrieved_at": "2026-10-27T04:39:09.392655+00:00",
+      "sha256": "4573a23fbbe335341d01246c7a01ab3922b9f5330f2aadf32a346031cb3d74ee",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013287",
+    "name": "易方达优势价值一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013287.js",
+      "disclosure_url": "https://fund.eastmoney.com/013287.html",
+      "retrieved_at": "2026-10-27T04:39:08.878026+00:00",
+      "sha256": "97ad40e9e0c31acbb374ebd63f1a3eedba407cfad269600dd8826532a2033cee",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013381",
+    "name": "中欧甄选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013381.js",
+      "disclosure_url": "https://fund.eastmoney.com/013381.html",
+      "retrieved_at": "2026-10-27T04:39:09.371887+00:00",
+      "sha256": "c127422ad2d7da880053add3cf7de623c60d198622afa02c62188c9ea5c7e2f5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013643",
+    "name": "汇添富优质精选一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013643.js",
+      "disclosure_url": "https://fund.eastmoney.com/013643.html",
+      "retrieved_at": "2026-10-27T04:39:11.462979+00:00",
+      "sha256": "32e57a32f321d7e651621b8f4fcf46fd70878b518fc4e63da798c56e7292c9d0",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013647",
+    "name": "汇添富经典价值成长一年持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013647.js",
+      "disclosure_url": "https://fund.eastmoney.com/013647.html",
+      "retrieved_at": "2026-10-27T04:39:12.268689+00:00",
+      "sha256": "8707b31575f57eb76391a8591639fded95dccf9f779ebc88ebaaaaffb68fea13",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013762",
+    "name": "中欧星选一年持有混合(FOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013762.js",
+      "disclosure_url": "https://fund.eastmoney.com/013762.html",
+      "retrieved_at": "2026-10-27T04:39:13.519328+00:00",
+      "sha256": "f1d580a6c21bc45936dfbd263ef66365ce33b3bae4f532d248e6cf1113143f74",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013763",
+    "name": "中欧星耀优选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013763.js",
+      "disclosure_url": "https://fund.eastmoney.com/013763.html",
+      "retrieved_at": "2026-10-27T04:39:12.776108+00:00",
+      "sha256": "5dc913e3a121045d6bf93dbd0fc5a823f7893258d0c4dbd9adebcc8addb1e449",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013786",
+    "name": "兴全积极配置混合(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013786.js",
+      "disclosure_url": "https://fund.eastmoney.com/013786.html",
+      "retrieved_at": "2026-10-27T04:39:14.505298+00:00",
+      "sha256": "3164344a66d8f3f11c8539d7375410583174986fb69fb9a18d8816203e0e8fe4",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013787",
+    "name": "交银智选星光混合(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013787.js",
+      "disclosure_url": "https://fund.eastmoney.com/013787.html",
+      "retrieved_at": "2026-10-27T04:39:16.973421+00:00",
+      "sha256": "74a605de8279dd6701d1dcfb729cc1442557e0a3a1c2af53c250e589f6e37c17",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013793",
+    "name": "富国智浦精选12个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013793.js",
+      "disclosure_url": "https://fund.eastmoney.com/013793.html",
+      "retrieved_at": "2026-10-27T04:39:15.171997+00:00",
+      "sha256": "c195ac16b52a24b41c3cf8c68b1099c4e6cb51e7392da5db94955cf6b8d48713",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013795",
+    "name": "富国智申精选3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013795.js",
+      "disclosure_url": "https://fund.eastmoney.com/013795.html",
+      "retrieved_at": "2026-10-27T04:39:16.242468+00:00",
+      "sha256": "9f9b8c53ff01f75538fd84d42e870b25ab9bdf9db150da0abfb02bbb7a00fa88",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013832",
+    "name": "中欧汇选混合(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013832.js",
+      "disclosure_url": "https://fund.eastmoney.com/013832.html",
+      "retrieved_at": "2026-10-27T04:39:17.502180+00:00",
+      "sha256": "2cb8f51cddaa21b9de66d897e17938bc4ce6d8d7d98117dc4aeede8ff8587531",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013844",
+    "name": "中信建投睿选6个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013844.js",
+      "disclosure_url": "https://fund.eastmoney.com/013844.html",
+      "retrieved_at": "2026-10-27T04:39:18.050978+00:00",
+      "sha256": "0a9642388b55d1cce1dc0073b5f6aebd693f1185498ee7be9323b328514b8294",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013849",
+    "name": "同泰优选配置3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013849.js",
+      "disclosure_url": "https://fund.eastmoney.com/013849.html",
+      "retrieved_at": "2026-10-27T04:39:19.091748+00:00",
+      "sha256": "ae87e8c5a50e05d3161965410474ca9ebed8075520c6592282d4f65734a91a36",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013933",
+    "name": "工银睿智进取股票(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013933.js",
+      "disclosure_url": "https://fund.eastmoney.com/013933.html",
+      "retrieved_at": "2026-10-27T04:39:20.875774+00:00",
+      "sha256": "f05f718650e4a62859f0255b7c9a27529ded0868221686a870f052395da92103",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-013954",
+    "name": "广发积极优势混合(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/013954.js",
+      "disclosure_url": "https://fund.eastmoney.com/013954.html",
+      "retrieved_at": "2026-10-27T04:39:20.930487+00:00",
+      "sha256": "01a9fcf37e6189a1960ff35c97042739d77b1da987a407a325b666b25998eb6e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014026",
+    "name": "易方达优选星汇六个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014026.js",
+      "disclosure_url": "https://fund.eastmoney.com/014026.html",
+      "retrieved_at": "2026-10-27T04:39:20.564687+00:00",
+      "sha256": "b297e85d7aeee6bf2f5587936182cd38576fa4ebad67a336f7a48bd9572ba23a",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014070",
+    "name": "汇添富均衡增长三个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014070.js",
+      "disclosure_url": "https://fund.eastmoney.com/014070.html",
+      "retrieved_at": "2026-10-27T04:39:22.554512+00:00",
+      "sha256": "df8a90d6bc44c93e4b8c51de149082a4de5e7aa881edff6244f919ba53ba4c8e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014079",
+    "name": "华夏行业配置股票(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014079.js",
+      "disclosure_url": "https://fund.eastmoney.com/014079.html",
+      "retrieved_at": "2026-10-27T04:39:23.718062+00:00",
+      "sha256": "31eafbed07149fc75f1a44f8b17f8048fcf2554f324eaa47b3269288da01024f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014092",
+    "name": "华夏优选配置股票(FOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014092.js",
+      "disclosure_url": "https://fund.eastmoney.com/014092.html",
+      "retrieved_at": "2026-10-27T04:39:23.314553+00:00",
+      "sha256": "3acf6c78da9857b815410ae17a82bf9a29cf36712f2b5b1003268954d818a651",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014168",
+    "name": "华安慧心楚选配置三年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014168.js",
+      "disclosure_url": "https://fund.eastmoney.com/014168.html",
+      "retrieved_at": "2026-10-27T04:39:24.134732+00:00",
+      "sha256": "12eef22033f2df0529c4346e851df31a454d91025389adbc647a18aa82d32f58",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014197",
+    "name": "国泰行业轮动股票(FOF-LOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014197.js",
+      "disclosure_url": "https://fund.eastmoney.com/014197.html",
+      "retrieved_at": "2026-10-27T04:39:25.000853+00:00",
+      "sha256": "7f8269c1f25b192818bea877895f1754a00125119cd11bf0d245023a4b68079e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014222",
+    "name": "汇添富核心优选六个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014222.js",
+      "disclosure_url": "https://fund.eastmoney.com/014222.html",
+      "retrieved_at": "2026-10-27T04:39:26.011111+00:00",
+      "sha256": "c83d3a5db77f59279090f32bd466f862eb6cdd4d189784e787519afccf0e518f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014934",
+    "name": "南方浩益进取聚申3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014934.js",
+      "disclosure_url": "https://fund.eastmoney.com/014934.html",
+      "retrieved_at": "2026-10-27T04:39:27.359927+00:00",
+      "sha256": "4b5a6874500fc8f28d41240f0c844e8b1314621a43b24db7fead06921b301e49",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-014936",
+    "name": "长江智选3个月持有混合(FOF)C",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/014936.js",
+      "disclosure_url": "https://fund.eastmoney.com/014936.html",
+      "retrieved_at": "2026-10-27T04:39:26.900817+00:00",
+      "sha256": "fa9951caf5ffb41462d96347187223a6e271310a470c6a16c78b789ed0c6a35b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-015083",
+    "name": "易方达优势驱动一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/015083.js",
+      "disclosure_url": "https://fund.eastmoney.com/015083.html",
+      "retrieved_at": "2026-10-27T04:39:28.960709+00:00",
+      "sha256": "a56d0fbdf2899c460954b84ca38196fffffd70e7ecbac3fa1d759d91971df03c",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-015087",
+    "name": "易方达优势先锋一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/015087.js",
+      "disclosure_url": "https://fund.eastmoney.com/015087.html",
+      "retrieved_at": "2026-10-27T04:39:29.746799+00:00",
+      "sha256": "8e36202ceff5fa41c37bac26caa2b9fed8f02feb95dbace118e9a75fd5d1076d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-015090",
+    "name": "易方达优势长兴三个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/015090.js",
+      "disclosure_url": "https://fund.eastmoney.com/015090.html",
+      "retrieved_at": "2026-10-27T04:39:29.919559+00:00",
+      "sha256": "76bccb26a80b5ed8492a30c28229b66b8452a74a5997babe8ec4f4c69b9dae84",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-015221",
+    "name": "汇添富积极回报一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/015221.js",
+      "disclosure_url": "https://fund.eastmoney.com/015221.html",
+      "retrieved_at": "2026-10-27T04:39:31.549775+00:00",
+      "sha256": "c81fe7409518e484e75858fc3121aa6b06e326e2d486e674af43c5138d9bbe13",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-015270",
+    "name": "南方养老目标2050五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/015270.js",
+      "disclosure_url": "https://fund.eastmoney.com/015270.html",
+      "retrieved_at": "2026-10-27T04:39:33.320521+00:00",
+      "sha256": "ccfff7e8ed58430ce6927d259f76bac4a983fca78f84302f3efa748d8d6f7429",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016146",
+    "name": "工银安裕积极一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016146.js",
+      "disclosure_url": "https://fund.eastmoney.com/016146.html",
+      "retrieved_at": "2026-10-27T04:39:33.111099+00:00",
+      "sha256": "fb3534ff13b858b2cc570204d8aadb03de49cd23adcf243c4145689e60ce6b96",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016219",
+    "name": "华夏聚锐优选三个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016219.js",
+      "disclosure_url": "https://fund.eastmoney.com/016219.html",
+      "retrieved_at": "2026-10-27T04:39:33.522416+00:00",
+      "sha256": "401a3dc145bb2c5c02b9ce9f241d79c4593726672d7178c7c444fb06e3770f27",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016316",
+    "name": "同泰积极配置3个月持有股票(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016316.js",
+      "disclosure_url": "https://fund.eastmoney.com/016316.html",
+      "retrieved_at": "2026-10-27T04:39:36.094892+00:00",
+      "sha256": "a02907c81bd263f25477f60a4fed3b9a0af613ab10463bf8f1ee376d81cca0ee",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016621",
+    "name": "平安盈诚积极配置6个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016621.js",
+      "disclosure_url": "https://fund.eastmoney.com/016621.html",
+      "retrieved_at": "2026-10-27T04:39:36.398855+00:00",
+      "sha256": "57e05ee4a48f939e419c97af90156ae9115006fb1ce1b553179eb3455f67c535",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016650",
+    "name": "易方达优势风华六个月持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016650.js",
+      "disclosure_url": "https://fund.eastmoney.com/016650.html",
+      "retrieved_at": "2026-10-27T04:39:37.012520+00:00",
+      "sha256": "2fb236044482df39c820521dc260841b3dd5b70859902e8e29882ee8705d8ed2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016737",
+    "name": "嘉实领航聚优积极配置6个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016737.js",
+      "disclosure_url": "https://fund.eastmoney.com/016737.html",
+      "retrieved_at": "2026-10-27T04:39:38.473975+00:00",
+      "sha256": "a653eeef31a37be040cb35baa749bb3fd80fa2a46e89f151be6fa885c787f6b4",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016849",
+    "name": "建信优享进取养老目标五年持有期混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016849.js",
+      "disclosure_url": "https://fund.eastmoney.com/016849.html",
+      "retrieved_at": "2026-10-27T04:39:39.098624+00:00",
+      "sha256": "21686b709bd6b8a09806b98058124942fb78cc90fa7e216a7d3ffc7b46858232",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016980",
+    "name": "华安锐进积极配置一年持有混合(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016980.js",
+      "disclosure_url": "https://fund.eastmoney.com/016980.html",
+      "retrieved_at": "2026-10-27T04:39:39.259444+00:00",
+      "sha256": "fcf3e8ff0f0b186c08faafe09ad33769c37687f76b5fd71c4ac82c0adab1851e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-016991",
+    "name": "广发招阳两年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/016991.js",
+      "disclosure_url": "https://fund.eastmoney.com/016991.html",
+      "retrieved_at": "2026-10-27T04:39:39.535510+00:00",
+      "sha256": "9262b7cb2185fd22d8dfdc69c8377449910a06d05d9a4ac2aa6a7e54328f20e3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017050",
+    "name": "金鹰优选配置三个月持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017050.js",
+      "disclosure_url": "https://fund.eastmoney.com/017050.html",
+      "retrieved_at": "2026-10-27T04:39:41.333091+00:00",
+      "sha256": "3858b772d55b407a9d0e9d1dd564601210c85d5773acb972ab76749359b1ad55",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017228",
+    "name": "易方达汇裕积极养老五年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017228.js",
+      "disclosure_url": "https://fund.eastmoney.com/017228.html",
+      "retrieved_at": "2026-10-27T04:39:42.058113+00:00",
+      "sha256": "6370480805a15386921f1f9030eff6749a05ab3353ac24114edee87cbd87ad04",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017254",
+    "name": "汇添富养老2050五年持有混合(FOF)Y",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017254.js",
+      "disclosure_url": "https://fund.eastmoney.com/017254.html",
+      "retrieved_at": "2026-10-27T04:39:42.653068+00:00",
+      "sha256": "d43bbd46be0cd70bd3934add22153eccfb4401614c6ca104e0a79f9b0b9c6a11",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017497",
+    "name": "南方养老目标2060五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017497.js",
+      "disclosure_url": "https://fund.eastmoney.com/017497.html",
+      "retrieved_at": "2026-10-27T04:39:45.419405+00:00",
+      "sha256": "9259bb44e0e7c7e4575304e55016df925d623fc468972472baf74423632f1fbd",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017676",
+    "name": "广发积极养老目标五年持有期混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017676.js",
+      "disclosure_url": "https://fund.eastmoney.com/017676.html",
+      "retrieved_at": "2026-10-27T04:39:45.773256+00:00",
+      "sha256": "ffe7f0e216e99001ae50349991ae0023c8bea890629e7cbacf9cd50a991d8bd8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017685",
+    "name": "中欧预见积极养老目标五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017685.js",
+      "disclosure_url": "https://fund.eastmoney.com/017685.html",
+      "retrieved_at": "2026-10-27T04:39:46.962462+00:00",
+      "sha256": "e8734f2ed872722d267ff9869012ca27b2c0bb251e9937c9e8a1978a47810db5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017822",
+    "name": "南方浩盈进取精选一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017822.js",
+      "disclosure_url": "https://fund.eastmoney.com/017822.html",
+      "retrieved_at": "2026-10-27T04:39:50.985985+00:00",
+      "sha256": "403205fb8262bceca4257fcf045880c55e203400c1b7e764d8a449ac93268c85",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017844",
+    "name": "兴全优选积极三个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017844.js",
+      "disclosure_url": "https://fund.eastmoney.com/017844.html",
+      "retrieved_at": "2026-10-27T04:39:48.361197+00:00",
+      "sha256": "766f6a306678b757c291761cef5f12fe3156c7962dd16fcc9cffb4e8484878a6",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-017980",
+    "name": "南方养老目标2055五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/017980.js",
+      "disclosure_url": "https://fund.eastmoney.com/017980.html",
+      "retrieved_at": "2026-10-27T04:39:48.592642+00:00",
+      "sha256": "4257394814ceffb06fa6b9781e35fc6247a62b1ddecd149a1bd27e474477361a",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018270",
+    "name": "富国鑫旺积极养老目标五年持有期混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018270.js",
+      "disclosure_url": "https://fund.eastmoney.com/018270.html",
+      "retrieved_at": "2026-10-27T04:39:49.701109+00:00",
+      "sha256": "42fd6d5ff39b55a7fbb2494bf70ceb2b19437b0b0608b081ee2518acb3ff11bd",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018285",
+    "name": "博时集兴配置优选6个月持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018285.js",
+      "disclosure_url": "https://fund.eastmoney.com/018285.html",
+      "retrieved_at": "2026-10-27T04:39:50.798868+00:00",
+      "sha256": "3fd895876c91aedeb45926e28b63934131e33f977ecfb334dce5fb6b2f16a5f8",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018318",
+    "name": "富国智选积极3个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018318.js",
+      "disclosure_url": "https://fund.eastmoney.com/018318.html",
+      "retrieved_at": "2026-10-27T04:39:51.025999+00:00",
+      "sha256": "22dcc6b064928be826c8c182897efdbc13a91f155623c6a289a38efbaee427d5",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018511",
+    "name": "东方红欣和积极3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018511.js",
+      "disclosure_url": "https://fund.eastmoney.com/018511.html",
+      "retrieved_at": "2026-10-27T04:39:53.091319+00:00",
+      "sha256": "1fb0b7fc27f80df52e981aa1f10ebe9cb4fd2592d100b3abf5b610490b324dab",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018674",
+    "name": "渤海汇金优选进取6个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018674.js",
+      "disclosure_url": "https://fund.eastmoney.com/018674.html",
+      "retrieved_at": "2026-10-27T04:39:53.489322+00:00",
+      "sha256": "9fc5005f13177ce43fc154c65af6d793851b83bc63b260ae2285dfa44e14d95f",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018687",
+    "name": "东方养老目标2050五年持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018687.js",
+      "disclosure_url": "https://fund.eastmoney.com/018687.html",
+      "retrieved_at": "2026-10-27T04:39:53.801264+00:00",
+      "sha256": "681b2bc85002d44d951ba0bf861bb2a0c4c2ec0f5c6656839f07a98c4d46972e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018837",
+    "name": "广发养老目标2060五年持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018837.js",
+      "disclosure_url": "https://fund.eastmoney.com/018837.html",
+      "retrieved_at": "2026-10-27T04:39:55.841010+00:00",
+      "sha256": "2400fd9febc683f31a7a8a4391699c1674d1cbed06d959040c2513d7b29a47e3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-018913",
+    "name": "汇添富添福睿鑫积极养老目标五年持有混合发起(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/018913.js",
+      "disclosure_url": "https://fund.eastmoney.com/018913.html",
+      "retrieved_at": "2026-10-27T04:39:56.178641+00:00",
+      "sha256": "c7d004caebeae04cad20d4f45757ab4f25083397b1d48d34faea77d6536ca825",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019132",
+    "name": "广发积极回报3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019132.js",
+      "disclosure_url": "https://fund.eastmoney.com/019132.html",
+      "retrieved_at": "2026-10-27T04:39:56.424540+00:00",
+      "sha256": "06a7038394ebdad27a6248cec4a930183a44b88e3fa37998bf6ec6fbfe36cc53",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019211",
+    "name": "交银智选进取三个月持有期混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019211.js",
+      "disclosure_url": "https://fund.eastmoney.com/019211.html",
+      "retrieved_at": "2026-10-27T04:39:56.213934+00:00",
+      "sha256": "004efe7bb02f63068ecdddd7bb6b9bb879a2dd3de8e31ecddc7c5b0d45db8862",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019245",
+    "name": "鹏华易诚积极3个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019245.js",
+      "disclosure_url": "https://fund.eastmoney.com/019245.html",
+      "retrieved_at": "2026-10-27T04:39:58.633608+00:00",
+      "sha256": "1d769f818619bb77bd74392c0b920e0a0937a673f12ce023c9cee898820d9185",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019247",
+    "name": "鹏华易选积极3个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019247.js",
+      "disclosure_url": "https://fund.eastmoney.com/019247.html",
+      "retrieved_at": "2026-10-27T04:39:58.773445+00:00",
+      "sha256": "f1bab26039ca6546423571ff8970a6eb5eee3647f403bf1e7fac0bcec3fa1196",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019609",
+    "name": "鹏华养老2050五年持有期混合发起式(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019609.js",
+      "disclosure_url": "https://fund.eastmoney.com/019609.html",
+      "retrieved_at": "2026-10-27T04:39:59.661027+00:00",
+      "sha256": "705d51916fa37928b8cff8b01b44a06afaa47b885bdd33bd3d08f6e54137ea64",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019657",
+    "name": "万家优选积极三个月持有期混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019657.js",
+      "disclosure_url": "https://fund.eastmoney.com/019657.html",
+      "retrieved_at": "2026-10-27T04:39:59.921388+00:00",
+      "sha256": "c5c252846c94f94c3c4b64e87ece1325f70f92bf58719e3e9b0cf78b73bd3912",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019664",
+    "name": "易方达养老2060五年持有混合发起式(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019664.js",
+      "disclosure_url": "https://fund.eastmoney.com/019664.html",
+      "retrieved_at": "2026-10-27T04:40:01.207012+00:00",
+      "sha256": "d8472a5241ac820e11a155aa17c3b09e6c08ecc4c7a27c90fc9144385b5f9929",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019678",
+    "name": "长城精选进取3个月持有期混合型发起式A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019678.js",
+      "disclosure_url": "https://fund.eastmoney.com/019678.html",
+      "retrieved_at": "2026-10-27T04:40:02.003920+00:00",
+      "sha256": "5291339aa79b806742f35330351c507bb0df289a342ecf5eb1f5a7723b474044",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-019757",
+    "name": "广发锐意进取3个月持有混合发起式(FOF)E",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/019757.js",
+      "disclosure_url": "https://fund.eastmoney.com/019757.html",
+      "retrieved_at": "2026-10-27T04:40:03.549523+00:00",
+      "sha256": "b1a2bc0f8f181541b1f287fcf389b93587d9295a28ab63ae52199be5ffb29f74",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-020350",
+    "name": "景顺长城养老2055五年持有混合FOF",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/020350.js",
+      "disclosure_url": "https://fund.eastmoney.com/020350.html",
+      "retrieved_at": "2026-10-27T04:40:06.076962+00:00",
+      "sha256": "cc892519131cedef72fa62487711a7f077e891b26893d417c32eb87622b82d10",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-020375",
+    "name": "华泰柏瑞永泰积极养老目标五年(FOF)",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/020375.js",
+      "disclosure_url": "https://fund.eastmoney.com/020375.html",
+      "retrieved_at": "2026-10-27T04:40:06.025518+00:00",
+      "sha256": "68f7a1620e10080a7bd7ca90561e8d98e0a44f3a5b898807abe64a0315330c6b",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-020846",
+    "name": "人保泰睿积极配置三个月持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/020846.js",
+      "disclosure_url": "https://fund.eastmoney.com/020846.html",
+      "retrieved_at": "2026-10-27T04:40:08.385981+00:00",
+      "sha256": "9194c4cda6be6c25e3af26a455ef19c4d2ca3b895a7362f45f8be529f6c9de52",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-021123",
+    "name": "华夏养老2060五年持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/021123.js",
+      "disclosure_url": "https://fund.eastmoney.com/021123.html",
+      "retrieved_at": "2026-10-27T04:40:09.071293+00:00",
+      "sha256": "4e5859bcdb99847c6fa655d9e148b8a656ca88417ff48c7ddb84043888542bb6",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-021638",
+    "name": "景顺长城臻品三个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/021638.js",
+      "disclosure_url": "https://fund.eastmoney.com/021638.html",
+      "retrieved_at": "2026-10-27T04:40:10.381539+00:00",
+      "sha256": "3b7df534c866e5ef7c0582508d511b018c16e1a988c00f4c255dd5d3efdb143d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-021643",
+    "name": "国联安积极配置3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/021643.js",
+      "disclosure_url": "https://fund.eastmoney.com/021643.html",
+      "retrieved_at": "2026-10-27T04:40:12.073409+00:00",
+      "sha256": "c290fa74109e82fbcad2342032e0ee617516214d2b63ce8f9a58915a92a521b7",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-022215",
+    "name": "人保泰和积极配置三个月持有混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/022215.js",
+      "disclosure_url": "https://fund.eastmoney.com/022215.html",
+      "retrieved_at": "2026-10-27T04:40:12.256536+00:00",
+      "sha256": "f85876badae0b607b8d3597e819e00320136f1008c9f9c17f382a1b044f090bb",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-023226",
+    "name": "兴全盈丰多元配置三个月持有混合(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/023226.js",
+      "disclosure_url": "https://fund.eastmoney.com/023226.html",
+      "retrieved_at": "2026-10-27T04:40:13.932230+00:00",
+      "sha256": "d46678853f31ba46baa0332be17eaffbf2a93fd5b7b3f3db88d5f85c205976d2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024015",
+    "name": "万家启尊价值三个月持有期混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024015.js",
+      "disclosure_url": "https://fund.eastmoney.com/024015.html",
+      "retrieved_at": "2026-10-27T04:40:15.368662+00:00",
+      "sha256": "789b2ef7b6f13ea40df1fa9a857b8f3012229d5ed07a834df503255fb9fe9db3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024021",
+    "name": "中欧积极多元配置3个月持有混合(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024021.js",
+      "disclosure_url": "https://fund.eastmoney.com/024021.html",
+      "retrieved_at": "2026-10-27T04:40:16.266596+00:00",
+      "sha256": "d76d92e7c2aa32b53a4b6a054e952a164550f335a467a5393522562d7e1d6617",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024040",
+    "name": "光大阳光三个月持有期混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024040.js",
+      "disclosure_url": "https://fund.eastmoney.com/024040.html",
+      "retrieved_at": "2026-10-27T04:40:16.250897+00:00",
+      "sha256": "3fe205d9db09245998283ca409973f99063b37bc5b69d95d00474a5bc06036c9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024061",
+    "name": "汇添富行业轮动90天持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024061.js",
+      "disclosure_url": "https://fund.eastmoney.com/024061.html",
+      "retrieved_at": "2026-10-27T04:40:16.839188+00:00",
+      "sha256": "e6853a6ab1ece53229a14d559864b1a0948e07c7eeee7a0990613e820585a21e",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024532",
+    "name": "鑫元鑫选积极配置3个月持有期混合发起式(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024532.js",
+      "disclosure_url": "https://fund.eastmoney.com/024532.html",
+      "retrieved_at": "2026-10-27T04:40:18.521821+00:00",
+      "sha256": "b15b947a1e7a5e01699728fe5d68565cf4ea7133d7a44edce85c4a6e80fcaa89",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-024810",
+    "name": "华夏财富优选一年持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/024810.js",
+      "disclosure_url": "https://fund.eastmoney.com/024810.html",
+      "retrieved_at": "2026-10-27T04:40:17.515998+00:00",
+      "sha256": "dbdfab73a978aa76daa19a3f28dc19cb26cad3db7982940410c98524270a0748",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-025521",
+    "name": "大成多元配置三个月持有混合(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/025521.js",
+      "disclosure_url": "https://fund.eastmoney.com/025521.html",
+      "retrieved_at": "2026-10-27T04:40:19.338306+00:00",
+      "sha256": "0b081c4a586cc8c6f76c31cb4c197c6743866105d4ae7fe33fbbe74445746957",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-026145",
+    "name": "南方浩信积极3个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/026145.js",
+      "disclosure_url": "https://fund.eastmoney.com/026145.html",
+      "retrieved_at": "2026-10-27T04:40:22.384190+00:00",
+      "sha256": "13752d60bd769bf6aed78ec5f1b3f118e873772fe640875224a234c571dbdd9a",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-026156",
+    "name": "鑫元鑫选盈泰进取配置3个月持有期混合发起式(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/026156.js",
+      "disclosure_url": "https://fund.eastmoney.com/026156.html",
+      "retrieved_at": "2026-10-27T04:40:22.482487+00:00",
+      "sha256": "d7465849ea60f5d0dfda44758ddafd60f4b9d17c3798a30ccb3806e6845dc7e2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-026390",
+    "name": "招商智享优选3个月持有期混合发起式(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/026390.js",
+      "disclosure_url": "https://fund.eastmoney.com/026390.html",
+      "retrieved_at": "2026-10-27T04:40:23.875041+00:00",
+      "sha256": "aaceb5f5f6212b33b050231871ddbfe41417c0e003b3711a8428fc435978c0d9",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-026570",
+    "name": "国泰多资产增益先锋3个月持有混合发起(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/026570.js",
+      "disclosure_url": "https://fund.eastmoney.com/026570.html",
+      "retrieved_at": "2026-10-27T04:40:24.952713+00:00",
+      "sha256": "7ef4ae9bba607042a81f64ba14ce5388b985dd14f2a4c8f78a758b3db7b38af0",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-026914",
+    "name": "渤海汇金多元积极配置3个月持有混合发起(ETF-FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/026914.js",
+      "disclosure_url": "https://fund.eastmoney.com/026914.html",
+      "retrieved_at": "2026-10-27T04:40:24.897659+00:00",
+      "sha256": "de04786c2e246f9b7d6886d4398c6f545c45a8791140242adb88a844e5420443",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-160326",
+    "name": "华夏优选配置股票(FOF-LOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/160326.js",
+      "disclosure_url": "https://fund.eastmoney.com/160326.html",
+      "retrieved_at": "2026-10-27T04:40:29.049817+00:00",
+      "sha256": "51a6797d76f4ee70e6d48615b99a88a90b6e461a9357771e699d2c34ae8cd719",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-161133",
+    "name": "易方达优势回报混合(FOF-LOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/161133.js",
+      "disclosure_url": "https://fund.eastmoney.com/161133.html",
+      "retrieved_at": "2026-10-27T04:40:29.546624+00:00",
+      "sha256": "1b365d2743a2773bd7713f7722f5a4c3d807f49e3acc16a5dfb6a2d5e6183356",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-501216",
+    "name": "富国智鑫行业精选股票(FOF-LOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/501216.js",
+      "disclosure_url": "https://fund.eastmoney.com/501216.html",
+      "retrieved_at": "2026-10-27T04:40:31.576998+00:00",
+      "sha256": "09e75a7be29cd6597320a9a5767f1bdee84d80d23ca13094a04b1f75ba7e28d2",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-952013",
+    "name": "国泰海通君得益三个月持有混合(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/952013.js",
+      "disclosure_url": "https://fund.eastmoney.com/952013.html",
+      "retrieved_at": "2026-10-27T04:40:33.144198+00:00",
+      "sha256": "5a94c504f4893d1e70c5ade69d06df74dda539d522dbb8033bc2309326cbe55d",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  },
+  {
+    "fund_id": "CN-970194",
+    "name": "兴证资管金麒麟3个月(FOF)A",
+    "strategy": "FOF-进取型",
+    "source": {
+      "provider": "东方财富 / 天天基金",
+      "source_url": "https://fund.eastmoney.com/pingzhongdata/970194.js",
+      "disclosure_url": "https://fund.eastmoney.com/970194.html",
+      "retrieved_at": "2026-10-27T04:40:34.605578+00:00",
+      "sha256": "e560791bb50aef7d386b217fc23c5bbb7543057fd38611b39dde3fbb9c0589b3",
+      "cache_stale": false,
+      "return_basis": "来源日涨跌幅逐期连乘，首日归一为1；非累计净值；来源复权处理尚未独立核对",
+      "limitations": [
+        "销售平台数据，需与管理人原始披露交叉核对",
+        "不包含底层持仓、经理任职、交易和费用归因",
+        "基金名称和类别不证明实际投资策略"
+      ]
+    }
+  }
+]
